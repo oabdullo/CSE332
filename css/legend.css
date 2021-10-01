@@ -1,0 +1,13 @@
+/* basic positioning */
+.legend { list-style: none; }
+.legend li { float: left; margin-right: 10px; }
+.legend span { border: 1px solid #ccc; float: left; width: 12px; height: 12px; margin: 2px; }
+/* your colors */
+
+.legend .firstColor { background-color: #e41a1c; }
+.legend .secondColor { background-color: #377eb8; }
+.legend .thirdColor { background-color: #4daf4a; }
+.legend .fourthColor { background-color: #984ea3; }
+.legend .fifthColor { background-color: #ff7f00; }
+.legend .sixthColor { background-color: #ffff33; }
+.legend .lastColor { background-color: #a65628; }

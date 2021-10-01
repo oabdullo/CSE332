@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+    <style>
+        .bar {
+            fill: green;
+        }
+    </style>
+    <script src="https://d3js.org/d3.v7.min.js" ></script>
+<body>
+<svg width="1000" height="700"></svg>
+<script src="./js/barchart.js"></script>
+
+<label for="cars">Variable:</label>
+<select id="cars" onchange="report(this.value)" name="cars">
+  
+  <option value="DRIVER_LICENSE_STATUS">License Status</option>
+  <option value="VEHICLE_TYPE">Vehicle Type</option>
+  <option value="VEHICLE_DAMAGE">Vehicle Damage</option>
+  <option value="TRAVEL_DIRECTION">Travel Direction</option>
+  <option value="CONTRIBUTING_FACTOR_1">Contributing Factor</option>
+</select>
+
+</body>
+</html>

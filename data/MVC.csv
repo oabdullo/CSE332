@@ -1,0 +1,397 @@
+UNIQUE_ID,COLLISION_ID,CRASH_DATE,CRASH_TIME,VEHICLE_ID,STATE_REGISTRATION,VEHICLE_TYPE,VEHICLE_MAKE,VEHICLE_MODEL,VEHICLE_YEAR,TRAVEL_DIRECTION,VEHICLE_OCCUPANTS,DRIVER_SEX,DRIVER_LICENSE_STATUS,DRIVER_LICENSE_JURISDICTION,PRE_CRASH,POINT_OF_IMPACT,VEHICLE_DAMAGE,VEHICLE_DAMAGE_1,VEHICLE_DAMAGE_2,VEHICLE_DAMAGE_3,PUBLIC_PROPERTY_DAMAGE,PUBLIC_PROPERTY_DAMAGE_TYPE,CONTRIBUTING_FACTOR_1,CONTRIBUTING_FACTOR_2
+19693462,4322092,6/22/2020,7:30,eadf72ff-d03f-430d-8505-d9db881c3332,NY,Sedan,TOYT -CAR/SUV,,2015,North,0,,,,Parked,Center Front End,Center Front End,Left Front Bumper,Right Front Bumper,No Damage,N,,Unspecified,Unspecified
+19693299,4322349,6/22/2020,18:10,7675ccbe-68b6-4842-8998-ebe005cc0d5d,NY,Van,TOYT-TRUCK/BUS,,2016,East,1,M,Licensed,NY,Going Straight Ahead,Right Side Doors,Right Side Doors,,,,N,,Other Vehicular,Other Vehicular
+19694316,4322767,6/6/2020,18:30,fdc195a7-8127-4c00-834d-bac78b0cf88e,,Bike,,,,South,1,M,Licensed,NY,Going Straight Ahead,Center Front End,No Damage,No Damage,No Damage,No Damage,N,,Traffic Control Disregarded,Unspecified
+19138701,4229067,10/24/2019,13:15,c53b43d9-419a-4ab1-9361-3f2979078d89,NY,Bus,FRHT-TRUCK/BUS,,2006,East,13,M,Licensed,NY,Parked,Left Front Quarter Panel,Left Front Quarter Panel,,,,N,,Unspecified,Unspecified
+19140656,4229538,10/24/2019,17:30,70e5262a-bd27-48a6-99a1-1ec659804088,NY,Station Wagon/Sport Utility Vehicle,JEEP -CAR/SUV,,2018,North,3,F,Licensed,NY,Going Straight Ahead,Left Rear Quarter Panel,Left Rear Quarter Panel,,,,N,,Unspecified,Unspecified
+19139721,4228839,10/24/2019,16:00,5bb0b59a-ce74-4a04-9f92-1446ebfe4f46,NC,Sedan,TOYT -CAR/SUV,,1990,South,1,M,Licensed,NC,Going Straight Ahead,Right Side Doors,Right Side Doors,,,,N,,Unspecified,Unspecified
+19139288,4228955,10/24/2019,23:40,8e406c38-a35f-4a06-bd29-fb196b3adec0,NY,Station Wagon/Sport Utility Vehicle,NISS -CAR/SUV,,2011,East,3,M,Permit,NY,Going Straight Ahead,Left Side Doors,Left Side Doors,Left Front Quarter Panel,,,N,,Unspecified,Unspecified
+19138486,4228644,10/24/2019,10:25,8ada1656-bb64-4bba-91b5-f8872d9de368,NY,Sedan,TOYT -CAR/SUV,,2008,East,2,M,Licensed,NY,Going Straight Ahead,Center Front End,No Damage,No Damage,No Damage,No Damage,N,,Driver Inattention/Distraction,Unspecified
+19139804,4229205,10/24/2019,12:10,009f5608-f1c8-4747-91be-6b707a1fda3d,NY,Station Wagon/Sport Utility Vehicle,INFI -CAR/SUV,,2019,East,1,M,Licensed,NY,Entering Parked Position,Right Front Bumper,Right Front Bumper,Right Front Quarter Panel,Right Front Quarter Panel,Right Front Bumper,N,,Backing Unsafely,Driver Inattention/Distraction
+19140446,4229127,10/24/2019,20:30,c1353cd0-388f-4e93-887d-6743b7599d2b,NY,Sedan,HOND -CAR/SUV,,2017,West,1,F,Licensed,NY,Going Straight Ahead,Center Front End,Center Front End,Left Front Bumper,Right Front Bumper,,N,,Unspecified,Unspecified
+19139096,4229018,10/24/2019,21:55,6ce523e1-6a14-4bcb-8e98-b2bdc5a74542,NY,Sedan,HOND -CAR/SUV,,2018,South,3,M,Licensed,NY,Going Straight Ahead,Center Front End,Left Front Bumper,Right Front Bumper,,,N,,Failure to Yield Right-of-Way,Traffic Control Disregarded
+19138903,4228921,10/24/2019,11:50,46176b3a-deda-4170-a186-7e7206b7a089,NY,Station Wagon/Sport Utility Vehicle,TOYT -CAR/SUV,,2017,East,1,M,Licensed,NY,Slowing or Stopping,Center Front End,Center Front End,No Damage,No Damage,No Damage,N,,Driver Inattention/Distraction,Unspecified
+19140226,4229375,10/24/2019,14:00,f37a0689-c2cb-4ae6-9317-531dffa0f185,NY,Station Wagon/Sport Utility Vehicle,TOYT -CAR/SUV,,2011,East,1,F,Licensed,NY,Making Left Turn,Left Rear Quarter Panel,Left Rear Quarter Panel,,,,N,,Unspecified,Unspecified
+19138211,4228473,10/24/2019,3:35,49a6bfa1-9d8f-4303-b101-a57aa7f332ea,,Sedan,TOYT -CAR/SUV,,2015,South,0,,,,Going Straight Ahead,Right Front Bumper,Right Front Bumper,Center Front End,,,Y,,Other Vehicular,Other Vehicular
+19139716,4228752,10/24/2019,13:30,ee1bb541-25e0-4335-accc-6638116cecdf,OK,Sedan,NISS -CAR/SUV,,2019,West,1,M,Licensed,NY,Making Right Turn,Left Front Bumper,Left Front Bumper,,,,N,,Unspecified,Unspecified
+19138997,4228597,10/24/2019,8:30,42998a22-2718-472b-a186-110eef8eb18a,NY,Sedan,TOYT -CAR/SUV,,2010,West,1,F,Licensed,NY,Going Straight Ahead,Left Rear Quarter Panel,Left Rear Quarter Panel,Left Side Doors,,,N,,Unspecified,Unspecified
+19139454,4228826,10/24/2019,9:20,cd5ccb9e-1de7-47af-bfc2-53ee8b0812a6,NY,4 Dr Sedan,NISS -CAR/SUV,,2000,North,1,F,Licensed,NY,Backing,Center Back End,Center Back End,,,,N,,Backing Unsafely,Driver Inexperience
+19140448,4229131,10/24/2019,22:20,a6920a97-5a7d-4f38-b7fe-3545f8c7e562,NY,Sedan,TOYT -CAR/SUV,,2019,West,1,F,Licensed,NY,Going Straight Ahead,Left Front Bumper,Left Front Bumper,Center Front End,Right Front Bumper,,N,,Unspecified,Unspecified
+19140322,4229321,10/24/2019,15:00,47b93a4c-8f9d-40f1-a007-48c1d94a7781,,,,,,,,,,,,,,,,,Unspecified,,,
+19139740,4229434,10/24/2019,18:20,775bcb70-da96-4f01-bf71-f4b0cc3a4428,NY,Sedan,KIA -CAR/SUV,,2004,West,4,M,Permit,NY,Backing,Center Back End,Center Back End,Left Rear Bumper,No Damage,No Damage,N,,Backing Unsafely,Driver Inexperience
+19138956,4228914,10/24/2019,16:50,30fd483d-0018-45ad-9d1a-25c82b7e3c7a,NY,Bus,IC,,2010,East,1,F,Licensed,NY,Going Straight Ahead,Left Front Bumper,Left Front Bumper,,,,Unspecified,,Unspecified,Unspecified
+19139066,4229005,10/24/2019,16:00,009b7e5e-29da-445b-9276-970bb78ec945,,,,,,,,,,,,,,,,,Unspecified,,,
+19139241,4228592,10/24/2019,7:40,48ae5413-c7b5-460d-9faf-779de08209dc,NY,Station Wagon/Sport Utility Vehicle,HOND -CAR/SUV,,2018,West,2,F,Licensed,NY,Making Right Turn,Right Rear Quarter Panel,Right Rear Quarter Panel,,,,N,,Unspecified,Unspecified
+19139175,4229059,10/24/2019,14:05,487215a5-cfe8-4a9a-9a23-7a341c5dedb1,NY,Box Truck,FORD-TRUCK/BUS,,2016,North,1,M,,NY,Going Straight Ahead,Right Side Doors,Right Side Doors,No Damage,No Damage,No Damage,N,,Driver Inattention/Distraction,Unspecified
+19139591,4228907,10/24/2019,16:47,4525614b-2256-446f-be38-9d425b5ec7ba,NY,Station Wagon/Sport Utility Vehicle,CHEV -CAR/SUV,,2016,West,1,M,Licensed,NY,Making Right Turn,Left Front Bumper,Left Front Quarter Panel,,,,N,,Unspecified,Unspecified
+19138926,4228939,10/24/2019,15:30,880a9965-6e28-41b2-93c1-59d3b56dd3b2,NJ,Sedan,HOND -CAR/SUV,,2008,North,1,M,Licensed,NJ,Going Straight Ahead,Right Side Doors,Right Side Doors,,,,N,,Unspecified,Unspecified
+19139178,4229062,10/24/2019,17:36,576ba188-4fbf-4751-b212-10d231c5cc3e,NJ,Sedan,LEXS -CAR/SUV,,2001,South,1,M,Licensed,NJ,Changing Lanes,Left Front Bumper,Left Front Quarter Panel,,,,N,,Driver Inattention/Distraction,Unsafe Lane Changing
+19137605,4228440,10/24/2019,1:30,bfbf1368-b100-48aa-b60d-7f1afc145835,NY,Taxi,TOYT -CAR/SUV,,2016,East,1,M,Licensed,NY,Stopped in Traffic,Center Back End,Center Back End,No Damage,No Damage,No Damage,N,,Unspecified,Other Vehicular
+19139393,4229031,10/24/2019,22:11,be6b4692-a968-400a-bc6a-a104d04f7023,NY,Bus,NOVA,,2011,South,0,M,Licensed,NY,Going Straight Ahead,Left Rear Quarter Panel,No Damage,,,,N,,Driver Inattention/Distraction,Unspecified
+19139602,4228906,10/24/2019,20:00,60717794-b43e-4fed-bdaf-887b7ed2145a,NY,Station Wagon/Sport Utility Vehicle,NISS -CAR/SUV,,2017,East,0,,,,Parked,Left Rear Quarter Panel,Left Rear Quarter Panel,,,,N,,Unspecified,Unspecified
+19139689,4228979,10/24/2019,19:30,2ee4b550-87a2-48f1-a22e-aec25ba557c2,NY,Sedan,ACUR -CAR/SUV,,2010,East,0,M,Licensed,NY,Going Straight Ahead,Center Front End,Center Front End,Left Front Bumper,Right Front Bumper,,N,,Following Too Closely,Unspecified
+19140520,4229190,10/24/2019,13:00,1df01f2a-a9a3-4249-b88d-1487d09b9534,VA,Sedan,MAZD -CAR/SUV,,2003,Southwest,1,F,Licensed,VA,Making Left Turn,Left Rear Quarter Panel,Left Rear Quarter Panel,No Damage,,,N,,Unspecified,Unspecified
+19139431,4228912,10/24/2019,16:30,aa124d2e-46fd-4c53-a6b2-58b3c86958cf,NY,Station Wagon/Sport Utility Vehicle,FORD -CAR/SUV,,2015,East,1,F,Licensed,NY,Going Straight Ahead,Center Front End,Center Front End,,,,N,,Driver Inattention/Distraction,Unspecified
+19140971,4229653,10/24/2019,9:45,a752c963-5bc7-4cd7-976c-edf5fc9a8ce1,NY,Station Wagon/Sport Utility Vehicle,MAZD -CAR/SUV,,2008,West,2,F,Licensed,NY,Going Straight Ahead,Center Back End,Center Back End,Left Rear Bumper,Right Rear Bumper,No Damage,N,,Unspecified,Unspecified
+19139060,4229012,10/24/2019,14:07,864298c2-162e-4933-9e8c-37f5310d66df,NY,Station Wagon/Sport Utility Vehicle,FORD -CAR/SUV,,2018,Southwest,1,F,Licensed,NY,Making Right Turn,Right Side Doors,Right Side Doors,,,,N,,Driver Inexperience,Unspecified
+19138706,4229068,10/24/2019,17:45,c32fcbfb-6a2f-4d46-9327-bf932693ba95,NY,Station Wagon/Sport Utility Vehicle,LEXS -CAR/SUV,,2017,East,2,F,Licensed,NY,Making Right Turn,Left Front Bumper,Left Front Bumper,Center Front End,,,N,,Unspecified,Unspecified
+19140729,4229528,10/24/2019,18:30,aab04bf0-9821-412b-9b3c-75fa1aab7d2a,FL,Station Wagon/Sport Utility Vehicle,FORD -CAR/SUV,,2003,North,1,M,Licensed,NY,Making U Turn,Left Rear Quarter Panel,Left Rear Quarter Panel,No Damage,No Damage,No Damage,N,,Turning Improperly,Unspecified
+19139989,4229116,10/24/2019,21:15,62f5b486-a42b-40a8-8e69-235ff549622f,NY,Sedan,NISS -CAR/SUV,,2010,West,1,M,Licensed,NY,Parked,Left Side Doors,Left Side Doors,No Damage,No Damage,No Damage,N,,Unspecified,Unspecified
+19139681,4228970,10/24/2019,14:15,60ba5ffe-e104-4bc6-9294-f83a5134331c,MN,Station Wagon/Sport Utility Vehicle,MERZ -CAR/SUV,,2014,South,1,F,Licensed,MN,Backing,Left Rear Bumper,Left Rear Bumper,Center Back End,,,N,,Backing Unsafely,Unspecified
+19139436,4228925,10/24/2019,21:00,2ac16dae-e590-4f5e-b262-e32eee0e32d0,NY,Station Wagon/Sport Utility Vehicle,HOND -CAR/SUV,,2018,West,1,F,Licensed,NY,Going Straight Ahead,Left Rear Bumper,Left Rear Bumper,Left Rear Quarter Panel,,,N,,Unsafe Lane Changing,Driver Inexperience
+19139524,4228675,10/24/2019,8:00,fc4d171e-83ef-405e-ac5a-8964eb4429c4,NY,Station Wagon/Sport Utility Vehicle,NISS -CAR/SUV,,2011,East,1,M,Licensed,NY,Going Straight Ahead,Right Front Quarter Panel,Right Front Quarter Panel,,,,N,,Unspecified,Unspecified
+19138708,4229069,10/24/2019,17:00,5959b285-467e-4e64-acfb-38447df8dc0a,NY,Sedan,TOYT -CAR/SUV,,2012,East,1,M,Licensed,NY,Going Straight Ahead,Center Back End,Left Rear Bumper,Right Rear Bumper,,,N,,Unspecified,Unspecified
+19139523,4228675,10/24/2019,8:00,593c8cb8-5dd2-4e43-906e-c27925ac87e4,NY,Sedan,HOND -CAR/SUV,,2018,North,1,F,Licensed,NY,Going Straight Ahead,Left Front Bumper,Left Front Bumper,Center Front End,,,N,,Failure to Yield Right-of-Way,Unspecified
+19139466,4228896,10/24/2019,17:35,680ca55b-90d9-49b0-8c3c-0f52d6ee077d,NY,Sedan,NISS -CAR/SUV,,2013,East,2,M,Licensed,NY,Stopped in Traffic,Center Back End,Right Rear Bumper,Left Rear Bumper,,,N,,Unspecified,Unspecified
+19139862,4229125,10/24/2019,17:50,f4d760a5-a9b9-497e-80c6-bb4ef598b321,NY,Box Truck,HINO -TRUCK/BUS,,2018,North,0,,,,Parked,Left Front Bumper,Left Front Bumper,,,,N,,Unspecified,Unspecified
+19139432,4228913,10/24/2019,19:00,de94213c-ef3f-4cfb-ba3e-9de1d2c5a77b,NY,Station Wagon/Sport Utility Vehicle,NISS -CAR/SUV,,2017,West,1,F,Licensed,NY,Changing Lanes,Right Front Bumper,Right Front Quarter Panel,Right Front Quarter Panel,No Damage,No Damage,N,,Unsafe Lane Changing,Unspecified
+19138659,4229052,10/24/2019,12:04,656595a2-3d65-43c9-9826-5fe497fff859,ON,Sedan,HOND -CAR/SUV,,2018,Southeast,2,M,Licensed,ON,Entering Parked Position,Left Front Bumper,Left Front Bumper,No Damage,No Damage,No Damage,N,,Driver Inattention/Distraction,Unspecified
+19138705,4229068,10/24/2019,17:45,baf1b770-1a85-468a-a1e4-3c57e1f42e6c,NY,Station Wagon/Sport Utility Vehicle,HOND -CAR/SUV,,2005,East,1,M,Licensed,PA,Making U Turn,Center Front End,Center Front End,Left Front Bumper,Right Front Bumper,,Unspecified,,Unspecified,Unspecified
+19139383,4228941,10/24/2019,15:43,47e9d857-74d3-4bb2-8256-bdaff2aec056,NY,Station Wagon/Sport Utility Vehicle,HOND -CAR/SUV,,1999,North,1,M,Licensed,NY,Going Straight Ahead,Center Front End,Center Front End,Center Back End,,,N,,Following Too Closely,Unspecified
+19139525,4228729,10/24/2019,9:00,26f5940f-5d73-479b-89dc-8d2be90d8ab3,NY,School Bus,IC -CAR/SUV,,2008,East,0,M,Licensed,NY,Going Straight Ahead,Right Front Bumper,Right Front Quarter Panel,,,,N,,Passing Too Closely,Unspecified
+19138619,4229016,10/24/2019,18:25,ce4d9f55-c6c5-4239-a096-d5442e419a56,NJ,Sedan,JEEP -CAR/SUV,,2014,East,0,F,Licensed,NY,Going Straight Ahead,Center Back End,Center Back End,Right Rear Bumper,Left Rear Bumper,No Damage,N,,Unspecified,Unspecified
+19139394,4229031,10/24/2019,22:11,e850cd60-9087-4d49-864a-2e5134bb0e97,NY,Taxi,TOYT -CAR/SUV,,2014,South,0,M,Licensed,NY,Going Straight Ahead,Right Front Bumper,Right Front Bumper,,,,N,,Driver Inattention/Distraction,Unspecified
+19139590,4228876,10/24/2019,17:00,1cd6eb78-fcaa-43b5-a515-3dc053dd8297,NY,Pick-Up Truck,FORD -CAR/SUV,,1999,East,1,M,Unlicensed,NY,Going Straight Ahead,Right Front Bumper,Right Front Bumper,Center Front End,Left Front Bumper,Right Front Quarter Panel,N,,Driver Inattention/Distraction,Unspecified
+19139268,4228956,10/24/2019,13:20,2023b3b6-d91a-4281-9d73-2ac8bfac2d63,NY,Box Truck,,,2007,North,1,M,Licensed,NY,Going Straight Ahead,Center Front End,Right Front Bumper,Left Front Bumper,,,N,,Following Too Closely,Unspecified
+19140507,4229115,10/24/2019,11:40,28abd15b-3caa-4808-8f4c-946fffae5df6,NY,Sedan,NISS -CAR/SUV,,2018,East,1,F,Licensed,NY,Passing,Right Front Quarter Panel,Right Front Quarter Panel,,,,N,,Passing or Lane Usage Improper,Unspecified
+19139463,4228825,10/24/2019,16:46,fdb03dae-5e33-4e94-89d0-97a52c0073d9,NY,Taxi,TOYT -CAR/SUV,,2013,South,1,M,Licensed,NY,Going Straight Ahead,Left Front Bumper,Center Front End,Right Front Bumper,,,N,,Driver Inattention/Distraction,Unspecified
+19139595,4228866,10/24/2019,19:00,6465022d-b759-4eff-915b-d7a81ae3a813,NY,Motorcycle,HOND -MCL,,2000,South,1,M,Licensed,NY,Going Straight Ahead,Center Front End,Center Front End,Right Front Bumper,Left Front Bumper,,N,,Driver Inattention/Distraction,Unspecified
+19139051,4229004,10/24/2019,18:40,5aec30e5-0170-47ed-900f-66cfb98a401c,NY,Sedan,TOYT -CAR/SUV,,,West,,,,,Backing,Center Back End,Center Back End,,,,N,,Backing Unsafely,Unspecified
+19139865,4228840,10/24/2019,16:30,74a56681-d800-417f-ac5c-6da04a9f0ac4,PA,Sedan,TOYT -CAR/SUV,,2017,North,0,M,Licensed,PA,Making Right Turn,Center Front End,Center Front End,No Damage,No Damage,No Damage,N,,Unspecified,Unspecified
+19139781,4229157,10/24/2019,15:37,3bb5026f-792b-4ff4-a51a-6ed07a2eae3d,IL,Sedan,NISS -CAR/SUV,,2007,North,1,,,,Going Straight Ahead,Center Front End,Center Front End,No Damage,No Damage,No Damage,N,,Driver Inattention/Distraction,Unspecified
+19140231,4229376,10/24/2019,19:15,55db4072-23b3-427b-8b68-acfb93984c8e,NY,Station Wagon/Sport Utility Vehicle,ACUR -CAR/SUV,,2007,North,2,M,Unlicensed,NY,Going Straight Ahead,Right Side Doors,Right Side Doors,Right Rear Quarter Panel,,,N,,Driver Inattention/Distraction,Driver Inexperience
+19139072,4228865,10/24/2019,10:00,6c72c98f-bf8b-40a6-ac74-5e025263da89,NJ,Pick-Up Truck,FORD -CAR/SUV,,2017,Unknown,0,,,,Parked,Right Front Quarter Panel,Right Front Quarter Panel,,,,N,,Unspecified,Unspecified
+19139016,4228869,10/24/2019,19:30,27eb56e5-a0e2-475f-8b42-438a7330a82f,NY,Sedan,NISS -CAR/SUV,,2016,East,2,M,Licensed,NY,Going Straight Ahead,Right Front Quarter Panel,Right Front Quarter Panel,Right Front Bumper,No Damage,No Damage,N,,Unspecified,Unspecified
+19138839,4229048,10/24/2019,14:50,24728b5c-f1ff-42a1-9c2b-37077edcf1e8,AL,Sedan,HOND -CAR/SUV,,2019,West,3,M,Licensed,AL,Going Straight Ahead,Center Back End,Center Back End,,,,N,,Unspecified,Unspecified
+19140142,4229260,10/24/2019,13:05,427b1cba-8f1f-4c21-856e-af6fec1ed99b,NY,Station Wagon/Sport Utility Vehicle,TOYT -CAR/SUV,,2014,West,0,M,Licensed,NY,Parked,Right Rear Quarter Panel,Right Rear Quarter Panel,Right Side Doors,Center Back End,Right Rear Bumper,N,,Unspecified,Unspecified
+19139034,4228742,10/24/2019,11:21,5b54282f-c0b9-4953-88f6-bb539cd6f50e,NJ,Station Wagon/Sport Utility Vehicle,INFI -CAR/SUV,,2019,West,1,F,Licensed,NY,Parked,Left Rear Bumper,Left Rear Bumper,No Damage,No Damage,No Damage,Unspecified,,Unspecified,Unspecified
+19139485,4228931,10/24/2019,8:45,972b46e3-0394-48b4-b700-1cbfd6e92957,NY,Station Wagon/Sport Utility Vehicle,SUBA -CAR/SUV,,2001,South,1,M,Licensed,NY,Going Straight Ahead,Left Front Quarter Panel,Left Front Quarter Panel,Left Front Bumper,,,N,,Unspecified,Unspecified
+19139230,4228779,10/24/2019,11:08,13ccb2ea-bb38-4270-bf70-10efcba24ecd,FL,Station Wagon/Sport Utility Vehicle,PORS -CAR/SUV,,2009,North,1,F,Licensed,NY,Parked,Right Rear Quarter Panel,Right Front Bumper,Right Front Quarter Panel,Right Side Doors,No Damage,N,,Unspecified,Unspecified
+19138597,4228677,10/24/2019,9:00,d7eedd45-36ca-402c-b0d8-319d2a80f03a,NY,Station Wagon/Sport Utility Vehicle,CHRY -CAR/SUV,,2018,Northwest,1,M,Licensed,NJ,Making Right Turn,Right Side Doors,Right Side Doors,Right Rear Quarter Panel,,,N,,Unspecified,Unspecified
+19139731,4228886,10/24/2019,18:35,c85b12ee-6f2f-4b7f-ae57-0e80fd73fdcf,NY,Station Wagon/Sport Utility Vehicle,JEEP -CAR/SUV,,2015,South,1,M,Licensed,NY,Going Straight Ahead,Left Side Doors,Left Rear Quarter Panel,No Damage,No Damage,No Damage,N,,Unsafe Lane Changing,Unspecified
+19140726,4229605,10/24/2019,17:30,667572ca-8a5e-45ef-9f8e-0592fff275db,NY,Station Wagon/Sport Utility Vehicle,CHEV -CAR/SUV,,1999,East,3,M,Licensed,NY,Going Straight Ahead,Center Back End,Center Back End,Right Rear Bumper,Left Rear Bumper,,N,,Unspecified,Unspecified
+19140725,4229524,10/24/2019,13:00,afdcff4b-7240-4695-9e74-b713a5246900,,,,,,Unknown,1,,,,,Other,Other,,,,Unspecified,,Driver Inattention/Distraction,
+19138790,4229081,10/24/2019,19:45,0f022a2c-8001-4a1f-81fb-448d04b09e5b,NY,Taxi,TOYT -CAR/SUV,,2015,Northeast,1,M,Licensed,NY,Making Left Turn,Left Front Bumper,Left Front Bumper,,,,N,,Driver Inexperience,Failure to Yield Right-of-Way
+19140519,4229191,10/24/2019,10:44,a7475f54-2c46-4899-ac7a-a85520f234bb,NY,Sedan,HOND -CAR/SUV,,2007,East,1,M,Licensed,NY,Going Straight Ahead,Right Front Bumper,Right Front Bumper,,,,N,,Passing or Lane Usage Improper,Unspecified
+19140262,4229167,10/24/2019,11:05,1ea64cbc-399d-43fb-8127-130bc2005d1d,NY,Flat Bed,MACK-TRUCK/BUS,,2019,North,1,M,Licensed,NY,Going Straight Ahead,Right Front Bumper,Right Front Bumper,,,,N,,Unspecified,Unspecified
+19140837,4229620,10/24/2019,14:35,99e8cf54-c1a1-495f-adaf-d6e2941c680f,NY,Sedan,HYUN -CAR/SUV,,2017,West,1,M,Licensed,NY,Going Straight Ahead,Center Back End,Center Back End,,,,N,,Unspecified,Unspecified
+19140583,4228838,10/24/2019,17:00,c122eb1a-e1d6-4fa7-a336-0c3d7005c6d9,NY,Station Wagon/Sport Utility Vehicle,,,2014,West,1,M,Licensed,NY,Going Straight Ahead,Left Rear Quarter Panel,Left Rear Quarter Panel,No Damage,No Damage,No Damage,N,,Passing Too Closely,Unspecified
+19138901,4228861,10/24/2019,8:36,d92e1aad-7e7b-4437-9f06-6e1258c252c0,FL,Sedan,AUDI -CAR/SUV,,2018,East,1,M,Licensed,NY,Going Straight Ahead,Center Front End,Center Front End,Right Front Bumper,Left Front Bumper,,N,,Driver Inattention/Distraction,Unspecified
+19139704,4228760,10/24/2019,8:30,e013e4c1-ac9f-4ff2-81f6-162168d64a07,NY,Station Wagon/Sport Utility Vehicle,FORD -CAR/SUV,,2016,East,0,,,,Parked,Center Front End,Center Front End,,,,N,,Unspecified,Unspecified
+19139093,4229024,10/24/2019,10:58,794caf6c-ea79-41c2-9694-a2d6e46493f3,IL,Bus,MCIN-TRUCK/BUS,,2017,Southeast,0,M,Licensed,NY,Making Left Turn,Left Side Doors,Left Side Doors,No Damage,No Damage,No Damage,N,,Driver Inattention/Distraction,Unspecified
+19138636,4229037,10/24/2019,17:11,19940c03-c719-4cbb-945d-bb41b8fbef8b,IL,Station Wagon/Sport Utility Vehicle,TOYT -CAR/SUV,,2004,South,2,M,Licensed,NY,Going Straight Ahead,Center Front End,Right Front Bumper,Right Front Quarter Panel,,,N,,Driver Inattention/Distraction,Unspecified
+19138591,4228615,10/24/2019,8:30,93d15b5b-02e3-4c34-bef6-aaa8edf7fda4,NY,Sedan,FORD -CAR/SUV,,2014,Southeast,1,M,Licensed,NY,Making Left Turn,Left Front Quarter Panel,Left Front Quarter Panel,,,,N,,Unspecified,Unspecified
+19141050,4229511,10/24/2019,18:32,52862068-0cea-4a5b-8cfe-5517d54772f1,NY,Sedan,TOYT -CAR/SUV,,2020,North,1,F,Licensed,NY,Going Straight Ahead,Right Front Bumper,Right Front Quarter Panel,,,,N,,Driver Inattention/Distraction,Driver Inattention/Distraction
+19139059,4229028,10/24/2019,15:30,71d795f2-fd79-45d4-b739-f640b521affd,,E-Sco,n/a,,,North,1,M,,,Making Left Turn,Left Front Bumper,Left Front Bumper,,,,N,,Unspecified,Unspecified
+19140449,4229131,10/24/2019,22:20,72632733-fd20-43d6-bdf8-f7d6e7f75c5d,,,,,,,,,,,,,,,,,Unspecified,UTILITY POLE,,
+19139376,4228635,10/24/2019,7:30,a911f7b6-0635-4e53-a808-216a824ce3ea,NY,Station Wagon/Sport Utility Vehicle,FORD -CAR/SUV,,2010,North,1,M,Licensed,NY,Stopped in Traffic,Right Rear Bumper,Right Rear Bumper,,,,N,,Unspecified,Unspecified
+19138722,4229032,10/24/2019,22:48,386549d6-8886-4ecc-9904-2ae51ce1a9d4,NY,Station Wagon/Sport Utility Vehicle,FORD -CAR/SUV,,2019,West,0,,,,Parked,Right Rear Bumper,Right Rear Bumper,Right Rear Quarter Panel,,,N,,Unspecified,Unspecified
+19139991,4229103,10/24/2019,22:40,3c77d295-8de8-41cd-8e41-5d562b376b57,NY,Taxi,TOYT -CAR/SUV,,2015,East,1,M,Licensed,NY,Going Straight Ahead,Right Side Doors,Right Side Doors,No Damage,No Damage,No Damage,N,,Unspecified,Unspecified
+19138606,4228994,10/24/2019,20:44,01cdcb25-92c9-4675-8f94-800da9e5e8f9,NY,Station Wagon/Sport Utility Vehicle,TOYT -CAR/SUV,,2015,North,1,M,Licensed,NY,Going Straight Ahead,Right Rear Quarter Panel,Right Rear Quarter Panel,,,,N,,Passing Too Closely,Unspecified
+19139530,4228685,10/24/2019,9:00,1e4db1e1-53ae-4f0f-ba7b-daacf3187f0e,NY,Dump,MACK-TRUCK/BUS,,2018,West,1,M,Licensed,NY,Parked,Left Front Bumper,No Damage,,,,N,,Unspecified,Unspecified
+19139401,4228784,10/24/2019,12:25,b6cbddb1-024a-426f-8742-4a7199830574,NY,Sedan,CHEV -CAR/SUV,,2017,North,0,,,,Parked,Right Front Quarter Panel,Right Side Doors,Right Rear Quarter Panel,Right Rear Bumper,,N,,Unspecified,Unspecified
+19139589,4228876,10/24/2019,17:00,99425d00-84b6-4205-ab53-e07863fd3095,NY,Station Wagon/Sport Utility Vehicle,HOND -CAR/SUV,,2000,East,1,M,Licensed,NY,Stopped in Traffic,Right Rear Bumper,Right Rear Bumper,Center Back End,Left Rear Bumper,Right Rear Quarter Panel,N,,Unspecified,Unspecified
+19140179,4229097,10/24/2019,10:30,7a3f6333-acd4-4a28-a7b9-a3577c62d847,NY,Sedan,FORD -CAR/SUV,,2002,South,1,M,Licensed,NY,Going Straight Ahead,No Damage,No Damage,No Damage,No Damage,No Damage,N,,Unspecified,Unspecified
+19138658,4229052,10/24/2019,12:04,193ec6fd-681a-408f-a889-b3462b7c75f0,NY,Station Wagon/Sport Utility Vehicle,LINC -CAR/SUV,,2013,South,1,M,Licensed,NY,Going Straight Ahead,Right Side Doors,Right Side Doors,No Damage,No Damage,No Damage,N,,Driver Inattention/Distraction,Unspecified
+19140178,4229097,10/24/2019,10:30,d7d94e00-3355-4312-a70c-0c861952f91b,NY,Sedan,BMW -CAR/SUV,,2020,South,3,M,Licensed,NY,Going Straight Ahead,Left Front Bumper,Left Front Bumper,No Damage,No Damage,Other,N,,Unsafe Lane Changing,Unspecified
+19138640,4229044,10/24/2019,20:40,05789133-a014-474f-a45f-20d6f6b58002,NY,Station Wagon/Sport Utility Vehicle,JEEP -CAR/SUV,,2018,East,1,M,Licensed,NY,Going Straight Ahead,Right Side Doors,Right Side Doors,,,,N,,Passing or Lane Usage Improper,Unspecified
+19139531,4228730,10/24/2019,12:30,fb5166b9-9bea-4b61-b505-bafcced4757c,NY,Station Wagon/Sport Utility Vehicle,TOYT -CAR/SUV,,2016,East,0,F,Licensed,NY,Making Left Turn,Center Front End,Left Front Bumper,,,,N,,Unspecified,Unspecified
+19139010,4228870,10/24/2019,12:50,a0b7f5e0-4dc9-4c1c-83ce-036198ba1ad5,NY,Station Wagon/Sport Utility Vehicle,TOYT -CAR/SUV,,2013,South,0,,,,Parked,Left Rear Bumper,Left Rear Bumper,No Damage,No Damage,No Damage,N,,Unspecified,Unspecified
+19139686,4228978,10/24/2019,18:10,d9e7303b-5e39-4bf2-9009-3309034de5b1,NY,Station Wagon/Sport Utility Vehicle,VOLV -CAR/SUV,,2019,South,1,M,Licensed,NY,Going Straight Ahead,Left Front Bumper,Left Front Bumper,,,,N,,Unspecified,Unspecified
+19139377,4228636,10/24/2019,8:05,337c0bb7-4bee-4b19-a2c9-031d5724fc05,NY,Station Wagon/Sport Utility Vehicle,JEEP -CAR/SUV,,2014,North,1,M,Licensed,NY,Going Straight Ahead,Right Rear Quarter Panel,Right Rear Quarter Panel,Right Rear Bumper,,,N,,Reaction to Uninvolved Vehicle,Unspecified
+19138906,4228923,10/24/2019,17:00,33d6f0ba-70d8-48bf-b6e9-37dedf0c850b,NY,Sedan,HOND -CAR/SUV,,2014,East,1,,,,Making U Turn,Center Back End,No Damage,No Damage,No Damage,No Damage,N,,Driver Inattention/Distraction,Unspecified
+19140004,4229100,10/24/2019,0:00,ed592e37-b4e9-4448-95bd-24c4ea5fc12a,NY,Station Wagon/Sport Utility Vehicle,SUBA -CAR/SUV,,2018,West,0,M,Licensed,NY,Going Straight Ahead,Right Front Bumper,Center Front End,,,,N,,Driver Inattention/Distraction,Unspecified
+19139158,4228884,10/24/2019,14:07,3d42d1b4-3765-42e0-8840-1e7a20d408bd,NY,Bus,NOVA,,2019,North,1,M,Licensed,NJ,Going Straight Ahead,Left Front Bumper,Left Front Bumper,,,,N,,Unspecified,Unspecified
+19139186,4228975,10/24/2019,11:50,76b6a16b-a840-417d-a5e7-4ca2e4edbe3c,NY,Sedan,HOND -CAR/SUV,,2019,Southwest,1,,,,Going Straight Ahead,Right Front Quarter Panel,Right Front Quarter Panel,No Damage,No Damage,No Damage,N,,Passing or Lane Usage Improper,Unsafe Lane Changing
+19138723,4229032,10/24/2019,22:48,a98de86f-2768-4bca-ad85-195665459414,NY,Sedan,TOYT -CAR/SUV,,2012,West,1,M,Licensed,NY,Passing,Left Front Bumper,Left Front Bumper,Left Front Quarter Panel,,,N,,Passing Too Closely,Passing or Lane Usage Improper
+19139521,4228983,10/24/2019,7:00,8bcd92e5-d957-44fb-ace7-67f419d30a96,TX,Sedan,HYUN -CAR/SUV,,2010,East,1,M,Licensed,NY,Merging,Center Front End,Center Front End,Left Front Bumper,Right Front Bumper,,N,,Following Too Closely,Unspecified
+19140216,4229228,10/24/2019,20:59,3b3de7dd-dee0-4010-b351-454d8902689e,NY,Station Wagon/Sport Utility Vehicle,NISS -CAR/SUV,,2009,North,1,M,Licensed,FL,Going Straight Ahead,Left Front Bumper,Left Front Quarter Panel,,,,N,,Unspecified,Unspecified
+19139607,4228908,10/24/2019,20:12,f64e8247-8398-4b12-97b5-b558e128acad,NY,Station Wagon/Sport Utility Vehicle,HYUN -CAR/SUV,,2019,South,1,M,Licensed,NY,Going Straight Ahead,Left Rear Quarter Panel,Left Rear Quarter Panel,Left Side Doors,,,N,,Unspecified,Unspecified
+19140304,4229334,10/24/2019,8:20,ecf7d271-5271-43aa-8020-085972a0bd35,NY,Sedan,MITS -CAR/SUV,,2014,East,1,F,Licensed,NY,Merging,Right Front Quarter Panel,Right Front Quarter Panel,,,,N,,Unsafe Lane Changing,Unspecified
+19140732,4229527,10/24/2019,20:45,6b070545-d55f-4b37-805c-082028178390,NY,Station Wagon/Sport Utility Vehicle,TOYT -CAR/SUV,,2007,South,0,,,,Parked,Left Front Quarter Panel,Left Front Quarter Panel,Left Front Bumper,,,N,,Unspecified,Unspecified
+19138927,4228899,10/24/2019,16:00,bcf24d4c-9ac6-4729-b059-66973520f0cb,NY,Station Wagon/Sport Utility Vehicle,LEXS -CAR/SUV,,2020,Northeast,1,M,Licensed,NY,Other*,Left Front Bumper,Left Front Bumper,Left Front Quarter Panel,No Damage,No Damage,N,,Driver Inattention/Distraction,Unspecified
+19139579,4228864,10/24/2019,12:13,fc713b8b-71ef-44ae-86c2-0d82833fc6ac,NY,Pick-Up Truck,VOLK -CAR/SUV,,2012,East,1,M,Licensed,NY,Going Straight Ahead,Center Back End,Left Side Doors,Left Front Quarter Panel,Left Rear Quarter Panel,Left Front Bumper,N,,Unspecified,Unspecified
+19139019,4229014,10/24/2019,19:54,ddaeaa8d-bc26-4050-a995-6a2d4c82c0a9,NY,Sedan,LEXS -CAR/SUV,,2017,West,1,M,Permit,NY,Making U Turn,Left Front Bumper,Left Front Bumper,No Damage,No Damage,No Damage,N,,Driver Inexperience,Turning Improperly
+19139713,4228751,10/24/2019,13:41,68d9c966-173b-44f6-ae6d-420ff449e0b6,NY,Station Wagon/Sport Utility Vehicle,HOND -CAR/SUV,,2018,Northwest,2,M,Licensed,NY,Making Right Turn,Left Front Bumper,Left Front Bumper,Center Front End,Left Front Quarter Panel,No Damage,N,,Driver Inattention/Distraction,Unspecified
+19139533,4228728,10/24/2019,13:00,41f8d605-da30-4237-addf-4f68ac65f7bd,NC,Sedan,NISS -CAR/SUV,,2007,East,2,M,Licensed,NY,Going Straight Ahead,Right Front Bumper,Right Front Quarter Panel,,,,N,,Unsafe Speed,Unspecified
+19138513,4228698,10/24/2019,12:00,2dfe4dee-cc39-4ed6-b982-06ac7c817292,NJ,Flat Bed,MACK-TRUCK/BUS,,2004,North,1,M,Licensed,NY,Going Straight Ahead,Right Front Bumper,No Damage,No Damage,,,N,,Passing Too Closely,Unspecified
+19139674,4228968,10/24/2019,9:00,d7a30ad6-f06b-4927-95ab-a96d3c54312d,,,,,,Unknown,,,,,,Other,Other,,,,Unspecified,,Passing Too Closely,Unspecified
+19138896,4228919,10/24/2019,7:52,f7df4102-d78c-4e7b-9d1a-a036ec7cb603,NY,Station Wagon/Sport Utility Vehicle,NISS -CAR/SUV,,2018,West,1,M,Licensed,NY,Slowing or Stopping,Center Back End,Center Back End,Right Rear Bumper,Left Rear Bumper,,N,,Unspecified,Unspecified
+19138732,4229056,10/24/2019,19:04,c7384151-f819-4ddf-a3b5-c545f80d92b2,NY,Sedan,NISS -CAR/SUV,,2009,North,1,M,Licensed,NY,Stopped in Traffic,Center Back End,Right Rear Bumper,Left Rear Bumper,,,N,,Unspecified,Unspecified
+19139706,4228760,10/24/2019,8:30,7e2d2828-2426-4c2c-bff5-f765246c3c89,NY,Station Wagon/Sport Utility Vehicle,JEEP -CAR/SUV,,2018,East,0,,,,Parked,Left Rear Bumper,Left Rear Bumper,Right Rear Quarter Panel,,,N,,Unspecified,Unspecified
+19140660,4229698,10/23/2019,23:20,d9fafdef-41d3-4a65-8d98-40fc8693ff82,NY,Station Wagon/Sport Utility Vehicle,GMC -CAR/SUV,,2016,West,0,,,,Parked,Right Front Bumper,Right Front Bumper,Left Front Bumper,Center Front End,Right Front Quarter Panel,N,,Unspecified,Unspecified
+19140820,4229609,10/23/2019,14:00,962dbac7-a5ef-4ffe-8f8e-3697b2287855,NY,Station Wagon/Sport Utility Vehicle,HOND -CAR/SUV,,2018,North,1,F,Licensed,NY,Going Straight Ahead,Left Front Bumper,Left Front Bumper,Left Front Quarter Panel,,,N,,Unspecified,Unspecified
+19140659,4229690,10/23/2019,8:30,93535305-9a56-4e0e-9d49-ec17cb8f754a,NY,Station Wagon/Sport Utility Vehicle,JEEP -CAR/SUV,,2014,South,1,M,Licensed,NY,Making Left Turn,Center Front End,Center Front End,,,,N,,Unspecified,Unspecified
+19140723,4229525,10/23/2019,14:56,5041ae43-0e92-4cc1-930e-c4290ca33a75,NY,Convertible,KW -CAR/SUV,,2012,East,1,M,Licensed,NY,Going Straight Ahead,Left Front Bumper,Left Front Bumper,Center Front End,Right Front Bumper,,Unspecified,,Unspecified,Unspecified
+19140791,4229563,10/21/2019,17:55,86a294b4-6672-4a7e-8357-39d6d2eff9f7,PA,Sedan,BMW -CAR/SUV,,2006,North,2,F,Licensed,PA,Going Straight Ahead,Center Front End,Right Front Bumper,Right Front Quarter Panel,Right Front Bumper,,N,,Unspecified,Unspecified
+19140792,4229563,10/21/2019,17:55,ca744068-6013-47f0-a661-a0fbb579eb47,NM,Station Wagon/Sport Utility Vehicle,HOND -CAR/SUV,,2003,West,1,M,Licensed,NY,Going Straight Ahead,Left Front Bumper,Center Front End,Center Front End,Left Front Bumper,,N,,Unspecified,Unspecified
+19140643,4229502,10/20/2019,16:10,a1b36722-2726-418c-8acc-f23eda445399,NY,Sedan,FORD -CAR/SUV,,2015,South,,,,,Going Straight Ahead,Center Front End,No Damage,No Damage,No Damage,No Damage,N,,Following Too Closely,Unspecified
+19140939,4229590,10/20/2019,22:15,7615e847-2462-4bf7-b7e9-34717602145a,NY,Station Wagon/Sport Utility Vehicle,CHEV -CAR/SUV,,2012,Unknown,0,,,,Parked,Left Rear Bumper,Left Rear Bumper,,,,N,,Unspecified,Unspecified
+19140710,4229517,10/19/2019,13:30,79c04add-66ef-4f3b-a159-120379cfa8ac,,Bike,,,,North,1,M,,,Going Straight Ahead,Center Front End,Center Front End,,,,N,,Failure to Yield Right-of-Way,Traffic Control Disregarded
+19140709,4229517,10/19/2019,13:30,3f5f539a-70e8-42ac-acb4-ba941b20943b,NY,Station Wagon/Sport Utility Vehicle,STRN -CAR/SUV,,2009,West,1,M,Licensed,NY,Going Straight Ahead,Left Side Doors,Left Side Doors,,,,N,,View Obstructed/Limited,Unspecified
+19140964,4229652,10/18/2019,3:19,bf167884-dfa9-43f2-9526-c2555c8cfaf5,NY,Sedan,FORD -CAR/SUV,,2014,West,0,,,,Parked,Right Rear Bumper,Right Rear Bumper,No Damage,No Damage,No Damage,N,,Unspecified,Unspecified
+19140717,4229516,10/18/2019,20:00,50ae3e29-e7d3-4f2a-9654-600bcd2af1a7,NY,Sedan,NISS -CAR/SUV,,2018,West,1,M,Licensed,NY,Going Straight Ahead,Center Back End,Center Back End,Right Rear Bumper,Center Back End,,N,,Unspecified,Unspecified
+19141039,4223842,10/14/2019,6:20,64b7fb10-b91b-4faa-8a30-baa797b1bf2c,,,,,,East,,,,,Going Straight Ahead,,,,,,N,,Driver Inattention/Distraction,Unspecified
+19140705,4224138,10/14/2019,9:00,a5631852-da97-4a36-91ec-8cce669de2fa,PA,Sedan,HOND -CAR/SUV,,2014,West,0,,,,Parked,Right Rear Bumper,Right Rear Bumper,Right Rear Quarter Panel,,,N,,Unspecified,Unspecified
+19140706,4224138,10/14/2019,9:00,8c008487-4a15-4fc7-af24-ecd8e2309145,NY,Station Wagon/Sport Utility Vehicle,MNNI -CAR/SUV,,2017,West,0,,,,Parked,Right Front Bumper,Right Front Bumper,Right Front Quarter Panel,,,N,,Unspecified,Unspecified
+19141099,4221934,10/12/2019,14:00,af2d5b1f-574d-47ca-b1ef-ef88571435d1,NY,Station Wagon/Sport Utility Vehicle,FORD -CAR/SUV,,2008,Northwest,2,M,Licensed,NY,Changing Lanes,Right Side Doors,Right Side Doors,Right Front Quarter Panel,,,N,,Unsafe Lane Changing,Unspecified
+19141100,4221934,10/12/2019,14:00,b230183d-d272-4e45-b98c-7bb20da57911,NY,Station Wagon/Sport Utility Vehicle,NISS -CAR/SUV,,2015,West,2,F,Licensed,NY,Going Straight Ahead,Center Front End,Center Front End,Left Front Bumper,Right Front Bumper,,N,,Unspecified,Unspecified
+19140702,4213082,9/23/2019,8:15,0553ab4d-9500-4cba-8d98-f4d7f89d5856,NY,Station Wagon/Sport Utility Vehicle,TOYT -CAR/SUV,,2002,North,1,M,Licensed,NY,Going Straight Ahead,Left Front Bumper,Left Front Quarter Panel,,,,N,,Driver Inattention/Distraction,Unspecified
+17409331,3589665,12/30/2016,19:00,1270093,NY,Station Wagon/Sport Utility Vehicle,NISS -CAR/SUV,,2010,North,1,M,Licensed,NY,Parked,Left Front Quarter Panel,Left Front Quarter Panel,Left Front Bumper,Left Side Doors,,N,,Unspecified,Unspecified
+17407805,3588823,12/28/2016,8:05,1259354,NY,Station Wagon/Sport Utility Vehicle,NISS -CAR/SUV,,2016,East,1,F,Licensed,NY,Parked,Left Front Bumper,Center Front End,Center Front End,,,N,,Unspecified,Unspecified
+17375601,3585106,12/22/2016,5:00,1239033,NY,Tractor Truck Diesel,peter,,2003,North,1,M,Licensed,NY,Going Straight Ahead,Right Front Bumper,Right Front Bumper,No Damage,No Damage,No Damage,N,,Following Too Closely,Unspecified
+17277100,3579297,12/13/2016,7:55,1193510,NY,Station Wagon/Sport Utility Vehicle,HYUN -CAR/SUV,,2007,North,0,,,,Parked,Left Front Bumper,Left Front Bumper,Center Front End,Right Front Bumper,,N,,Unspecified,Unspecified
+17374304,3580451,12/13/2016,23:50,1258671,IL,Sedan,KW -CAR/SUV,,2017,North,1,M,Licensed,NJ,Going Straight Ahead,Right Front Bumper,Right Front Bumper,Right Front Quarter Panel,,,N,,Unspecified,Unspecified
+17255296,3570241,11/30/2016,3:55,1135053,NY,Station Wagon/Sport Utility Vehicle,JEEP -CAR/SUV,,2016,West,1,M,Licensed,NY,Going Straight Ahead,Left Rear Quarter Panel,Left Rear Quarter Panel,,,,N,,Traffic Control Disregarded,Unspecified
+17392034,3570304,11/29/2016,17:10,1158904,NY,Sedan,NISS -CAR/SUV,,2012,North,2,M,Licensed,NY,Making Left Turn,Center Front End,No Damage,No Damage,No Damage,No Damage,N,,Driver Inattention/Distraction,Failure to Yield Right-of-Way
+17420144,3563221,11/18/2016,15:15,1088245,IL,Pick-Up Truck,FORD -CAR/SUV,,1993,West,1,M,Unlicensed,NY,Slowing or Stopping,Center Front End,Center Front End,Left Front Bumper,Center Back End,Right Rear Bumper,N,,Following Too Closely,Driver Inattention/Distraction
+17387522,3560734,11/15/2016,8:10,1130901,NY,Station Wagon/Sport Utility Vehicle,NISS -CAR/SUV,,2016,North,1,F,Licensed,NY,Going Straight Ahead,Center Front End,Center Front End,,,,N,,Driver Inattention/Distraction,Driver Inattention/Distraction
+17239665,3558253,11/10/2016,17:25,1052897,NJ,Sedan,TOYT -CAR/SUV,,1998,South,1,M,Licensed,NJ,Slowing or Stopping,Center Front End,Center Front End,Left Front Bumper,Right Front Bumper,,N,,Driver Inattention/Distraction,Unspecified
+17319910,3547635,10/26/2016,9:30,984463,NY,Sedan,TOYT -CAR/SUV,,2016,North,0,F,Licensed,NY,Parked,Right Front Quarter Panel,Right Side Doors,Right Rear Quarter Panel,,,N,,Unspecified,Unspecified
+17352817,3589368,10/24/2016,10:17,1267937,NY,Sedan,TOYT -CAR/SUV,,1994,North,1,M,Licensed,NY,Going Straight Ahead,Center Front End,Center Front End,No Damage,No Damage,No Damage,N,,Following Too Closely,Unspecified
+17316201,3546261,10/22/2016,16:50,970070,NY,Pick-Up Truck,FORD -CAR/SUV,,2012,North,1,M,Licensed,NY,Going Straight Ahead,Center Front End,Center Front End,Left Front Bumper,Center Front End,Right Front Bumper,N,,Following Too Closely,Unspecified
+17222837,3542089,10/17/2016,16:00,993368,NY,Pick-Up Truck,freig,,2006,South,0,M,Licensed,NY,Going Straight Ahead,Center Back End,Center Back End,,,,N,,Unspecified,Unspecified
+17417712,3539215,10/13/2016,9:40,924620,NY,Station Wagon/Sport Utility Vehicle,CHEV -CAR/SUV,,2008,West,1,M,Licensed,NY,Merging,Right Front Quarter Panel,Right Front Quarter Panel,,,,N,,Failure to Yield Right-of-Way,Unsafe Lane Changing
+17240338,3537934,10/11/2016,13:45,916643,NY,Station Wagon/Sport Utility Vehicle,DODG -CAR/SUV,,2011,North,1,M,Licensed,NY,Going Straight Ahead,Center Back End,Center Back End,No Damage,No Damage,No Damage,N,,Unspecified,Unspecified
+17195183,3530231,9/30/2016,3:20,864046,NY,Sedan,TOYT -CAR/SUV,,2017,South,1,M,Licensed,NY,Going Straight Ahead,Left Front Quarter Panel,Left Front Bumper,,,,N,,Unspecified,Unspecified
+17303869,3527244,9/25/2016,18:00,842549,NY,Station Wagon/Sport Utility Vehicle,FORD -CAR/SUV,,2002,East,5,M,Licensed,NY,Going Straight Ahead,Right Front Bumper,Right Front Bumper,,,,N,,Unspecified,Unspecified
+17349952,3524151,9/19/2016,9:20,976749,NY,Station Wagon/Sport Utility Vehicle,FORD -CAR/SUV,,2004,South,1,M,Licensed,NY,Making Left Turn,Left Front Bumper,Center Front End,Right Front Bumper,,,N,,Unspecified,Unspecified
+17377465,3517383,9/12/2016,5:16,779814,NY,Sedan,HOND -CAR/SUV,,2003,West,2,F,Licensed,NY,Going Straight Ahead,Left Side Doors,Left Side Doors,No Damage,No Damage,No Damage,N,,Unspecified,Unspecified
+17199379,3518403,9/10/2016,19:20,773609,NJ,Station Wagon/Sport Utility Vehicle,MERZ -CAR/SUV,,2005,Unknown,1,F,Licensed,NJ,Parked,Left Rear Bumper,Left Rear Bumper,,,,N,,Unspecified,Unspecified
+17316890,3519120,9/9/2016,16:20,787414,NY,Station Wagon/Sport Utility Vehicle,SUBA -CAR/SUV,,2012,South,1,F,Licensed,NY,Going Straight Ahead,Left Rear Bumper,Left Rear Bumper,,,,N,,Unspecified,Unspecified
+17401424,3516125,9/8/2016,14:40,764668,NY,Station Wagon/Sport Utility Vehicle,LINC -CAR/SUV,,2015,West,1,M,Licensed,NY,Stopped in Traffic,Right Rear Quarter Panel,Right Rear Quarter Panel,Right Rear Bumper,No Damage,No Damage,N,,Unspecified,Unspecified
+17243843,3511254,8/29/2016,17:00,736613,MD,Sedan,TOYT -CAR/SUV,,2007,North,1,M,Licensed,MD,Going Straight Ahead,Left Front Bumper,Left Front Bumper,Center Front End,Right Front Bumper,,N,,Unspecified,Unspecified
+17261779,3508420,8/26/2016,11:20,708362,NY,Station Wagon/Sport Utility Vehicle,LEXS -CAR/SUV,,2006,Southeast,2,M,Licensed,NY,Going Straight Ahead,Center Front End,No Damage,,,,N,,Driver Inattention/Distraction,Unspecified
+17235620,3505081,8/22/2016,10:15,686945,NY,Pallet,INTL-TRUCK/BUS,,2012,East,0,M,Licensed,NY,Going Straight Ahead,Left Front Bumper,Left Front Bumper,No Damage,No Damage,No Damage,N,,Unspecified,Unspecified
+17172871,3505053,8/19/2016,15:23,692423,MA,Sedan,KIA -CAR/SUV,,2016,Unknown,0,M,Licensed,OH,Parked,Right Rear Quarter Panel,Right Side Doors,Right Front Quarter Panel,No Damage,No Damage,N,,Unspecified,Unspecified
+17303317,3503027,8/18/2016,12:39,672828,NY,Station Wagon/Sport Utility Vehicle,FORD -CAR/SUV,,2005,Southwest,2,F,Licensed,NY,Going Straight Ahead,Center Front End,Center Front End,No Damage,No Damage,No Damage,N,,Driver Inattention/Distraction,Unspecified
+17307366,3499697,8/13/2016,21:05,650962,NY,Sedan,NISS -CAR/SUV,,2015,West,2,F,Licensed,NY,Going Straight Ahead,Left Side Doors,Left Side Doors,Left Rear Quarter Panel,,,N,,Unspecified,Unspecified
+17301763,3499345,8/12/2016,22:10,647364,NY,Sedan,BMW -CAR/SUV,,2002,Southwest,1,M,Licensed,NY,Going Straight Ahead,Left Rear Bumper,Left Rear Bumper,No Damage,No Damage,No Damage,N,,Unspecified,Unspecified
+17179435,3499115,8/10/2016,13:05,634943,NY,Flat Bed,FRHT-TRUCK/BUS,,2015,Southeast,1,M,Licensed,NY,Making Right Turn,Trailer,Trailer,,,,N,,Turning Improperly,Oversized Vehicle
+17222329,3495015,8/6/2016,5:15,616085,NY,Sedan,HYUN -CAR/SUV,,2012,East,1,M,Licensed,NY,Stopped in Traffic,Left Rear Quarter Panel,Left Rear Quarter Panel,,,,N,,Unspecified,Unspecified
+17169289,3533118,8/5/2016,12:35,613344,NJ,Sedan,MERZ -CAR/SUV,,,North,,,,,Merging,Left Front Quarter Panel,,,,,N,,Driver Inattention/Distraction,Unspecified
+17285715,3487936,7/22/2016,15:40,554272,NY,Convertible,VOLK -CAR/SUV,,2013,South,1,M,Licensed,NY,Stopped in Traffic,Right Rear Bumper,Right Rear Bumper,Center Back End,Left Rear Bumper,,N,,Unspecified,Unspecified
+17187987,3482489,7/17/2016,17:45,529156,NJ,4 Dr Sedan,BMW -CAR/SUV,,2014,East,1,M,Licensed,NJ,Going Straight Ahead,Center Back End,Center Back End,,,,N,,Unspecified,Unspecified
+17234958,3478113,7/7/2016,18:00,504330,NY,2 Dr Sedan,PORS -CAR/SUV,,2003,East,0,,,,Parked,Right Rear Bumper,Right Rear Bumper,,,,N,,Unspecified,Unspecified
+17192960,3461036,6/13/2016,0:00,398253,,,,,,,,,,,,,,,,,Unspecified,,,
+17160597,3460740,6/12/2016,17:50,392273,NY,Taxi,TOYT -CAR/SUV,,2015,East,4,M,Licensed,NY,Going Straight Ahead,Right Side Doors,Right Side Doors,Right Rear Quarter Panel,,,N,,Unspecified,Unspecified
+17148493,3460288,6/10/2016,20:00,385985,NY,Bus,VANHO,,2000,Southeast,3,M,Licensed,NY,Going Straight Ahead,Right Side Doors,Right Side Doors,No Damage,No Damage,No Damage,N,,Backing Unsafely,Unspecified
+17202048,3457385,6/7/2016,12:53,370609,NY,Station Wagon/Sport Utility Vehicle,HYUN -CAR/SUV,,2013,South,1,M,Licensed,NY,Going Straight Ahead,Left Rear Bumper,Center Back End,Right Rear Bumper,,,N,,Unspecified,Unspecified
+17154674,3449248,5/31/2016,0:05,491751,NY,Station Wagon/Sport Utility Vehicle,NISS -CAR/SUV,,2012,South,0,,,,Parked,Right Rear Bumper,Right Rear Quarter Panel,,,,N,,Unspecified,Unspecified
+17028837,3453992,5/31/2016,16:33,341990,NY,4 Dr Sedan,HYUN -CAR/SUV,,2012,North,2,M,Licensed,NY,Going Straight Ahead,Left Rear Quarter Panel,Left Rear Quarter Panel,,,,N,,Driver Inattention/Distraction,Unspecified
+17049525,3452570,5/22/2016,23:05,311635,NY,Sedan,TOYT -CAR/SUV,,2014,North,0,M,Licensed,NY,Going Straight Ahead,Center Front End,Left Front Bumper,Right Front Bumper,,,N,,Unspecified,Unspecified
+17072438,3444930,5/20/2016,23:30,328178,NY,Motorcycle,YAMA -MCL,,2012,North,1,M,Licensed,CA,Going Straight Ahead,Center Front End,Other,Other,Other,Other,Y,,Unspecified,Obstruction/Debris
+17157088,3444592,5/12/2016,19:00,984058,NY,4 Dr Sedan,HYUN -CAR/SUV,HYUN ZZZ,2016,East,2,M,Licensed,PA,Going Straight Ahead,Center Back End,Center Back End,,,,N,,Unspecified,Unspecified
+17044144,3434721,5/4/2016,13:00,226380,MA,4 Dr Sedan,DODG -CAR/SUV,DODG CHA,2015,East,1,,,,Parked,Left Side Doors,Left Front Quarter Panel,,,,N,,Unspecified,Unspecified
+17044639,3434155,5/2/2016,17:35,219456,NY,4 Dr Sedan,MERZ -CAR/SUV,,2015,East,2,M,Licensed,FL,Merging,Right Front Bumper,Right Front Bumper,Right Front Quarter Panel,,,N,,Driver Inattention/Distraction,Unsafe Lane Changing
+17045096,3432659,4/27/2016,19:15,198679,NY,Station Wagon/Sport Utility Vehicle,FORD -CAR/SUV,FORD ZZZ,2000,West,1,M,Licensed,NY,Going Straight Ahead,Center Front End,Center Front End,Left Side Doors,Left Rear Quarter Panel,,N,,Following Too Closely,Unspecified
+16975598,3405490,4/15/2016,12:55,144051,NY,Truck,isuza,deliv,2012,North,1,M,Licensed,NJ,Going Straight Ahead,Left Side Doors,Left Side Doors,No Damage,No Damage,No Damage,N,,Unspecified,Unspecified
+16952374,3412270,4/1/2016,15:46,87497,NY,Station Wagon/Sport Utility Vehicle,TOYT -CAR/SUV,TOYT 4RN,2015,South,1,M,,,Passing,Right Front Quarter Panel,No Damage,No Damage,No Damage,No Damage,N,,Unsafe Lane Changing,Traffic Control Disregarded
+16960549,3427002,3/31/2016,14:40,70258,NY,4 Dr Sedan,CHEV -CAR/SUV,,2011,North,1,M,Licensed,NY,Slowing or Stopping,Left Front Bumper,Left Front Bumper,,,,N,,Unspecified,Unspecified
+16945532,3428745,3/21/2016,7:30,57510,NY,4 Dr Sedan,HOND -CAR/SUV,HOND CIV,2014,South,1,F,Licensed,NY,Going Straight Ahead,Center Front End,Center Front End,,,,N,,Driver Inattention/Distraction,Unspecified
+16938968,3430394,3/17/2016,18:50,52325,NY,Station Wagon/Sport Utility Vehicle,chrysler,town and country,2015,Unknown,0,U,,,Parked,Left Rear Bumper,Left Rear Bumper,,,,N,,Unspecified,Unspecified
+16938759,3435821,3/14/2016,21:19,13701,MD,Pick-Up Truck,FRHT,TRUCK TRADE,2011,East,1,M,Licensed,CT,Going Straight Ahead,No Damage,No Damage,,,,N,,Unspecified,Unspecified
+15081411,3405096,3/13/2016,15:00,2,NY,Motorcycle,,,,,,,,,Going Straight Ahead,,,,,,,,Lost Consciousness,
+15079321,3404065,3/11/2016,21:31,1,NY,Sport Utility / Station Wagon,,,,,,,,,Going Straight Ahead,,,,,,,,Fatigued/Drowsy,
+15061195,3394984,2/25/2016,10:11,1,NY,Passenger Vehicle,,,,,,,,,Parked,,,,,,,,Unspecified,
+15054978,3391837,2/20/2016,3:07,3,NY,Passenger Vehicle,,,,,,,,,Parked,,,,,,,,Unspecified,
+15055054,3391875,2/19/2016,19:30,1,NY,Sport Utility / Station Wagon,,,,,,,,,Going Straight Ahead,,,,,,,,Unspecified,
+15030134,3379266,1/28/2016,15:00,2,NY,Sport Utility / Station Wagon,,,,,,,,,Parked,,,,,,,,Unspecified,
+15029165,3378782,1/27/2016,8:30,2,NY,Passenger Vehicle,,,,,,,,,Parked,,,,,,,,Unspecified,
+15027911,3378142,1/26/2016,17:30,2,NY,Taxi,,,,,,,,,,,,,,,,,Unspecified,
+15024609,3376467,1/24/2016,18:00,2,NY,Unknown,,,,,,,,,,,,,,,,,Unspecified,
+15022049,3375179,1/22/2016,10:10,1,NY,Passenger Vehicle,,,,,,,,,Going Straight Ahead,,,,,,,,Unspecified,
+15004954,3366573,1/7/2016,12:29,2,NY,Passenger Vehicle,,,,,,,,,Going Straight Ahead,,,,,,,,Unspecified,
+14998179,3363181,12/31/2015,8:55,2,NY,Passenger Vehicle,,,,,,,,,Parked,,,,,,,,Unspecified,
+14991843,3359992,12/23/2015,18:30,2,NY,Passenger Vehicle,,,,,,,,,Going Straight Ahead,,,,,,,,Outside Car Distraction,
+14977963,3352963,12/8/2015,19:30,1,NY,Sport Utility / Station Wagon,,,,,,,,,Making Left Turn,,,,,,,,Failure to Yield Right-of-Way,
+14964902,3346426,12/4/2015,17:50,2,NY,Passenger Vehicle,,,,,,,,,Backing,,,,,,,,Backing Unsafely,
+14940681,3334227,11/13/2015,19:00,2,NY,Passenger Vehicle,,,,,,,,,Entering Parked Position,,,,,,,,,
+14925931,3326836,11/2/2015,11:00,2,NY,Passenger Vehicle,,,,,,,,,Parked,,,,,,,,Unspecified,
+14908950,3318313,10/15/2015,12:20,1,NY,Small Com Veh(4 Tires),,,,,,,,,Parked,,,,,,,,Unspecified,
+14903590,3315642,10/14/2015,5:00,1,TX,Large Com Veh(6 Or More Tires),,,,,,,,,Making Right Turn,,,,,,,,Physical Disability,
+14897251,3312469,10/9/2015,20:50,1,NY,Other,,,,,,,,,Going Straight Ahead,,,,,,,,Unspecified,
+14891978,3309808,10/6/2015,10:37,1,NY,Passenger Vehicle,,,,,,,,,Going Straight Ahead,,,,,,,,Unspecified,
+14892129,3309884,10/6/2015,17:30,1,NY,Van,,,,,,,,,Going Straight Ahead,,,,,,,,Other Vehicular,
+14889754,3308693,10/4/2015,20:34,1,NY,Passenger Vehicle,,,,,,,,,Parked,,,,,,,,Unspecified,
+14887647,3307608,10/2/2015,17:18,2,NY,Taxi,,,,,,,,,Going Straight Ahead,,,,,,,,Driver Inattention/Distraction,
+14888316,3307950,10/2/2015,20:55,2,NY,Passenger Vehicle,,,,,,,,,Changing Lanes,,,,,,,,Unspecified,
+14888066,3307822,10/2/2015,14:15,1,NY,Pick-Up Truck,,,,,,,,,Making Right Turn,,,,,,,,Unspecified,
+14876426,3301985,9/22/2015,16:50,1,NY,Passenger Vehicle,,,,,,,,,Making Left Turn,,,,,,,,Driver Inattention/Distraction,
+14872536,3300039,9/16/2015,23:25,3,NY,Unknown,,,,,,,,,,,,,,,,,Unspecified,
+14858054,3292788,9/8/2015,21:30,1,NY,Passenger Vehicle,,,,,,,,,Parked,,,,,,,,Illness,
+14856165,3291849,9/6/2015,22:00,1,NY,Passenger Vehicle,,,,,,,,,Stopped in Traffic,,,,,,,,Unspecified,
+14854970,3291248,9/6/2015,12:51,1,NY,Passenger Vehicle,,,,,,,,,Going Straight Ahead,,,,,,,,Unspecified,
+14854760,3291145,9/4/2015,10:00,1,NY,Passenger Vehicle,,,,,,,,,Going Straight Ahead,,,,,,,,Turning Improperly,
+14842705,3285154,8/27/2015,7:20,1,NY,Passenger Vehicle,,,,,,,,,Making Left Turn,,,,,,,,Prescription Medication,
+14836297,3281978,8/20/2015,23:05,2,NY,Passenger Vehicle,,,,,,,,,Making Right Turn,,,,,,,,Unspecified,
+14833728,3280727,8/18/2015,14:20,2,NY,Passenger Vehicle,,,,,,,,,Going Straight Ahead,,,,,,,,Lost Consciousness,
+14831062,3279405,8/17/2015,15:47,1,NY,Passenger Vehicle,,,,,,,,,Going Straight Ahead,,,,,,,,Failure to Yield Right-of-Way,
+14826434,3277120,8/14/2015,14:20,1,NY,Passenger Vehicle,,,,,,,,,Going Straight Ahead,,,,,,,,Unspecified,
+14825597,3276702,8/13/2015,9:15,2,NY,Passenger Vehicle,,,,,,,,,Making Left Turn,,,,,,,,Other Vehicular,
+14822099,3274990,8/9/2015,6:20,4,NY,Passenger Vehicle,,,,,,,,,Parked,,,,,,,,Unspecified,
+14809587,3268858,8/1/2015,8:17,2,NJ,Passenger Vehicle,,,,,,,,,Going Straight Ahead,,,,,,,,Passenger Distraction,
+14814350,3271212,7/24/2015,13:10,2,NY,Small Com Veh(4 Tires),,,,,,,,,Going Straight Ahead,,,,,,,,,
+14795557,3262048,7/20/2015,6:30,1,NY,Taxi,,,,,,,,,Parked,,,,,,,,Backing Unsafely,
+14790506,3259584,7/15/2015,16:00,2,NY,Unknown,,,,,,,,,Making Left Turn,,,,,,,,Prescription Medication,
+14785714,3257442,7/12/2015,22:40,2,NY,Passenger Vehicle,,,,,,,,,Going Straight Ahead,,,,,,,,Unspecified,
+14754561,3243745,6/19/2015,11:50,1,NY,Passenger Vehicle,,,,,,,,,Going Straight Ahead,,,,,,,,Unspecified,
+14747912,3240710,6/15/2015,17:12,1,NY,Passenger Vehicle,,,,,,,,,Stopped in Traffic,,,,,,,,Unspecified,
+14736201,3236354,6/6/2015,11:30,1,NY,Passenger Vehicle,,,,,,,,,Starting in Traffic,,,,,,,,Failure to Yield Right-of-Way,
+14712708,3226503,5/23/2015,21:36,1,MO,Passenger Vehicle,,,,,,,,,Going Straight Ahead,,,,,,,,Failure to Yield Right-of-Way,
+14711103,3225767,5/22/2015,8:12,2,NY,Passenger Vehicle,,,,,,,,,Going Straight Ahead,,,,,,,,Unspecified,
+14713801,3225319,5/21/2015,12:45,2,NY,Pick-Up Truck,,,,,,,,,Going Straight Ahead,,,,,,,,Unspecified,
+14706955,3223978,5/18/2015,14:30,2,NJ,Passenger Vehicle,,,,,,,,,Making Left Turn,,,,,,,,Lost Consciousness,
+14672130,3209911,4/27/2015,16:30,1,NJ,Sport Utility / Station Wagon,,,,,,,,,Backing,,,,,,,,Unspecified,
+14672152,3209919,4/26/2015,1:14,1,NY,Passenger Vehicle,,,,,,,,,Going Straight Ahead,,,,,,,,Alcohol Involvement,
+14658856,3204325,4/16/2015,15:58,2,NY,Sport Utility / Station Wagon,,,,,,,,,Going Straight Ahead,,,,,,,,Other Vehicular,
+14648689,3200207,4/9/2015,19:05,1,NY,Other,,,,,,,,,Going Straight Ahead,,,,,,,,Passenger Distraction,
+14648143,3199977,4/8/2015,21:55,2,NY,Passenger Vehicle,,,,,,,,,Starting from Parking,,,,,,,,Fatigued/Drowsy,
+14646299,3199239,4/8/2015,15:30,1,MD,Passenger Vehicle,,,,,,,,,Going Straight Ahead,,,,,,,,Unspecified,
+14634311,3194230,3/26/2015,15:00,1,NY,Pick-Up Truck,,,,,,,,,Parked,,,,,,,,Unspecified,
+14637094,3185667,3/13/2015,0:58,1,NY,Passenger Vehicle,,,,,,,,,Parked,,,,,,,,Unspecified,
+14602717,3181111,3/6/2015,9:30,2,NY,Unknown,,,,,,,,,Passing,,,,,,,,Other Vehicular,
+14603135,3181296,3/5/2015,18:30,1,NY,Sport Utility / Station Wagon,,,,,,,,,Parked,,,,,,,,Unspecified,
+14578877,3171407,2/18/2015,18:30,2,NY,Other,,,,,,,,,Going Straight Ahead,,,,,,,,Unspecified,
+14578714,3171338,2/17/2015,10:00,1,NY,Passenger Vehicle,,,,,,,,,Going Straight Ahead,,,,,,,,Unspecified,
+14563086,3164812,2/6/2015,10:25,2,NY,Taxi,,,,,,,,,Changing Lanes,,,,,,,,Other Vehicular,
+14546516,3157995,1/23/2015,20:00,3,NY,Van,,,,,,,,,Parked,,,,,,,,Unspecified,
+14599251,3151687,1/12/2015,11:43,1,NY,Passenger Vehicle,,,,,,,,,Going Straight Ahead,,,,,,,,Unspecified,
+14519990,3146846,1/2/2015,17:20,2,NY,Sport Utility / Station Wagon,,,,,,,,,Going Straight Ahead,,,,,,,,Unspecified,
+14518873,3146342,1/1/2015,15:22,1,NY,Passenger Vehicle,,,,,,,,,Stopped in Traffic,,,,,,,,Unspecified,
+14511804,3143508,12/26/2014,21:00,1,NY,Passenger Vehicle,,,,,,,,,Going Straight Ahead,,,,,,,,Unspecified,
+14504418,3140424,12/19/2014,14:45,2,NY,Sport Utility / Station Wagon,,,,,,,,,Going Straight Ahead,,,,,,,,Unspecified,
+12970613,2828792,11/22/2014,21:30,1,NY,Passenger Vehicle,,,,,,,,,Parked,,,,,,,,Unspecified,
+8794899,2826657,11/20/2014,19:15,3,NY,Sport Utility / Station Wagon,,,,,,,,,Parked,,,,,,,,Unspecified,
+9675080,2821840,11/10/2014,20:15,2,NY,Sport Utility / Station Wagon,,,,,,,,,Going Straight Ahead,,,,,,,,Unspecified,
+12467721,2821153,11/9/2014,0:15,2,NY,Passenger Vehicle,,,,,,,,,Going Straight Ahead,,,,,,,,Unspecified,
+9134777,2812954,10/23/2014,15:25,1,NY,Taxi,,,,,,,,,Merging,,,,,,,,Lost Consciousness,
+12553012,1037702,10/11/2014,21:20,1,NY,Sport Utility / Station Wagon,,,,,,,,,Making Right Turn,,,,,,,,Driver Inattention/Distraction,
+10230895,1034629,10/7/2014,15:05,1,NY,Sport Utility / Station Wagon,,,,,,,,,Going Straight Ahead,,,,,,,,Turning Improperly,
+10532087,1034683,10/6/2014,19:00,2,NY,Bicycle,,,,,,,,,Passing,,,,,,,,Lost Consciousness,
+13436244,1032019,9/30/2014,11:35,1,NY,Passenger Vehicle,,,,,,,,,Slowing or Stopping,,,,,,,,Unspecified,
+8711103,1031553,9/30/2014,9:00,2,NY,Motorcycle,,,,,,,,,Slowing or Stopping,,,,,,,,Lost Consciousness,
+10532001,1029760,9/28/2014,11:36,1,NY,Passenger Vehicle,,,,,,,,,Backing,,,,,,,,Unspecified,
+11758837,1025554,9/17/2014,15:00,2,NY,Bus,,,,,,,,,Making Right Turn,,,,,,,,Unspecified,
+9978957,1020026,9/6/2014,17:12,1,NY,Sport Utility / Station Wagon,,,,,,,,,Going Straight Ahead,,,,,,,,Unspecified,
+11758197,1014563,8/27/2014,14:30,2,NY,Passenger Vehicle,,,,,,,,,Going Straight Ahead,,,,,,,,Unspecified,
+10062798,1015472,8/27/2014,9:55,1,NY,Large Com Veh(6 Or More Tires),,,,,,,,,Changing Lanes,,,,,,,,Turning Improperly,
+13097877,1011403,8/20/2014,10:00,1,NY,Sport Utility / Station Wagon,,,,,,,,,Slowing or Stopping,,,,,,,,Unspecified,
+9509261,1010643,8/19/2014,13:55,1,NY,Sport Utility / Station Wagon,,,,,,,,,Parked,,,,,,,,Unspecified,
+9133174,1011061,8/19/2014,18:50,2,NY,Bus,,,,,,,,,Going Straight Ahead,,,,,,,,Driver Inattention/Distraction,
+8404435,1009244,8/16/2014,12:50,2,NY,Taxi,,,,,,,,,Backing,,,,,,,,Driver Inattention/Distraction,
+14221219,3108421,8/4/2014,1:10,2,NY,Passenger Vehicle,,,,,,,,,Going Straight Ahead,,,,,,,,Unspecified,
+10062169,546846,7/15/2014,10:30,3,NY,Passenger Vehicle,,,,,,,,,Parked,,,,,,,,Unspecified,
+9132270,362858,7/10/2014,8:00,2,NY,Van,,,,,,,,,Going Straight Ahead,,,,,,,,Unspecified,
+14411040,349583,6/9/2014,23:40,1,NY,Sport Utility / Station Wagon,,,,,,,,,Going Straight Ahead,,,,,,,,Outside Car Distraction,
+9846871,346589,6/4/2014,11:00,2,NY,Passenger Vehicle,,,,,,,,,Starting from Parking,,,,,,,,Unspecified,
+9508187,2865358,5/30/2014,18:40,1,NY,Passenger Vehicle,,,,,,,,,Stopped in Traffic,,,,,,,,Unspecified,
+8708957,341525,5/27/2014,16:30,2,IL,Bus,,,,,,,,,Passing,,,,,,,,,
+12056337,335730,5/14/2014,9:30,2,,Bicycle,,,,,,,,,Going Straight Ahead,,,,,,,,Other Vehicular,
+9977047,335025,5/13/2014,16:50,2,NY,Passenger Vehicle,,,,,,,,,Slowing or Stopping,,,,,,,,Traffic Control Disregarded,
+12056310,334075,5/11/2014,23:30,1,NY,Unknown,,,,,,,,,Going Straight Ahead,,,,,,,,Unspecified,
+9882078,328209,5/1/2014,21:16,1,FL,Passenger Vehicle,,,,,,,,,Backing,,,,,,,,Unspecified,
+9723046,359652,4/21/2014,6:10,2,NY,Unknown,,,,,,,,,Going Straight Ahead,,,,,,,,Failure to Yield Right-of-Way,
+13429375,314334,4/1/2014,15:40,1,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+10671059,307936,3/18/2014,15:45,1,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+11753650,2968477,3/3/2014,9:30,1,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+10611077,113448,2/24/2014,17:56,1,NY,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Unspecified,
+8483670,9285,2/20/2014,17:30,2,,Other,,,,,,,,,,,,,,,,,Unspecified,
+13534977,259201,2/15/2014,18:35,2,NY,Unknown,,,,,,,,,,,,,,,,,Unspecified,
+12005192,184410,2/1/2014,23:50,2,NY,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Unspecified,
+10228163,94662,2/1/2014,7:00,1,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+13241410,244750,1/5/2014,16:00,2,NJ,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+13534111,3065983,12/28/2013,19:00,2,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+8889301,31225,12/10/2013,22:08,1,NJ,Other,,,,,,,,,,,,,,,,,Unspecified,
+13851173,3097477,11/25/2013,20:00,1,NY,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Driver Inattention/Distraction,
+11866785,175219,11/22/2013,13:00,1,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+9799870,75601,11/20/2013,23:03,2,NY,Bus,,,,,,,,,,,,,,,,,Unspecified,
+12962970,232134,11/15/2013,9:10,1,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+13654992,263174,11/12/2013,9:15,2,NY,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Failure to Yield Right-of-Way,
+13753519,267238,11/12/2013,11:50,1,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+10782245,120363,11/11/2013,13:15,1,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+8534739,11685,11/10/2013,11:27,1,NY,Taxi,,,,,,,,,,,,,,,,,Unspecified,
+10669933,115753,11/9/2013,12:50,1,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+13239670,244061,11/5/2013,8:10,2,NY,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Failure to Yield Right-of-Way,
+11165037,139623,10/29/2013,12:40,2,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+13654653,263067,10/28/2013,17:15,1,NY,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Unspecified,
+8705770,20486,10/27/2013,4:15,1,NY,Other,,,,,,,,,,,,,,,,,Unspecified,
+8572538,2836960,10/13/2013,14:55,2,NY,Bicycle,,,,,,,,,,,,,,,,,Traffic Control Disregarded,
+12459407,207364,10/7/2013,18:24,1,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Driver Inattention/Distraction,
+11056089,133532,9/25/2013,16:00,2,NY,Taxi,,,,,,,,,,,,,,,,,Unspecified,
+11565190,158931,9/23/2013,14:00,2,NY,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Backing Unsafely,
+13532151,258074,9/14/2013,19:00,2,NY,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Unspecified,
+13089065,236693,9/1/2013,0:30,1,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+9283345,2849078,8/23/2013,16:50,2,NY,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Other Vehicular,
+9124769,42484,8/22/2013,15:45,1,NY,Taxi,,,,,,,,,,,,,,,,,Unspecified,
+8533957,11284,8/20/2013,22:30,2,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+9439011,58841,7/20/2013,18:36,1,NY,Livery Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+9504593,61192,7/17/2013,1:50,2,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+12254536,196425,7/16/2013,11:20,1,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+8704041,19615,7/16/2013,17:10,1,NY,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Unspecified,
+12313986,2992280,7/15/2013,17:00,1,NY,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Fatigued/Drowsy,
+8397469,3171,7/7/2013,18:30,2,UK,Unknown,,,,,,,,,,,,,,,,,Unspecified,
+8397460,3167,7/6/2013,15:15,1,NY,Motorcycle,,,,,,,,,,,,,,,,,Backing Unsafely,
+8998479,35429,7/5/2013,9:50,2,NY,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Unspecified,
+8396973,2921,6/12/2013,15:18,1,NY,Van,,,,,,,,,,,,,,,,,Unspecified,
+11161855,138062,5/29/2013,21:55,3,VA,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+13750457,266109,5/24/2013,20:00,2,FL,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+9970818,83030,5/21/2013,19:00,2,NY,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Driver Inattention/Distraction,
+9122202,41173,5/6/2013,20:35,1,NJ,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Failure to Yield Right-of-Way,
+8884788,28916,5/5/2013,15:00,2,NY,Pick-Up Truck,,,,,,,,,,,,,,,,,Unspecified,
+8702657,18912,4/27/2013,3:00,2,NY,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Fatigued/Drowsy,
+10872608,123541,4/26/2013,16:30,1,PA,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Unspecified,
+14400270,297666,4/25/2013,21:15,1,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Other Vehicular,
+9279658,48176,4/13/2013,10:17,1,NJ,Passenger Vehicle,,,,,,,,,,,,,,,,,Other Vehicular,
+14088768,281818,4/12/2013,19:41,2,NJ,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+9970061,82726,4/11/2013,14:00,2,NY,Bus,,,,,,,,,,,,,,,,,Unspecified,
+9879462,79561,4/9/2013,15:10,1,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+13233679,3045325,4/6/2013,7:05,1,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+13529255,3065444,4/5/2013,14:50,1,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+13233410,241620,3/26/2013,18:08,1,NJ,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+10055389,86647,3/25/2013,7:50,1,NY,Van,,,,,,,,,,,,,,,,,Unspecified,
+11315260,145863,3/23/2013,21:01,1,NY,Other,,,,,,,,,,,,,,,,,Failure to Yield Right-of-Way,
+8395403,2148,3/17/2013,16:00,2,NY,Taxi,,,,,,,,,,,,,,,,,Unspecified,
+14463368,302418,3/15/2013,15:24,2,NY,Unknown,,,,,,,,,,,,,,,,,Unspecified,
+9503405,60786,3/4/2013,8:55,2,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+11622876,161377,2/28/2013,6:31,1,NY,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Unspecified,
+13982442,275144,2/26/2013,17:30,1,SC,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+12543122,210249,2/14/2013,17:30,2,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+8532175,10366,1/30/2013,1:30,1,NY,Taxi,,,,,,,,,,,,,,,,,Unspecified,
+8995418,33951,1/22/2013,14:05,2,NY,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Unspecified,
+12658900,214963,12/27/2012,11:10,1,NY,Bus,,,,,,,,,,,,,,,,,Unspecified,
+11314325,2960132,12/18/2012,4:20,2,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+13230693,240527,12/15/2012,16:00,2,NJ,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+9118842,39434,11/30/2012,11:30,2,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Fatigued/Drowsy,
+11804847,2975897,11/26/2012,18:12,2,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Driver Inattention/Distraction,
+10158114,2912640,11/22/2012,22:25,1,NY,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Unspecified,
+8531488,10017,11/12/2012,16:55,2,GA,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Unspecified,
+10316936,95966,11/10/2012,16:21,1,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+14462100,301826,11/7/2012,12:20,2,NY,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Unspecified,
+13844415,268872,10/27/2012,13:40,1,NY,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Unspecified,
+9717900,70563,10/27/2012,16:08,2,CA,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+8393362,1113,10/26/2012,16:20,2,NY,Bicycle,,,,,,,,,,,,,,,,,Unspecified,
+10157552,89182,10/19/2012,23:15,2,FL,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+14085773,280506,10/19/2012,8:56,1,NY,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Unspecified,
+13229136,239864,10/18/2012,12:50,2,MA,Large Com Veh(6 Or More Tires),,,,,,,,,,,,,,,,,Unspecified,
+13746922,264725,10/10/2012,18:30,1,NY,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Backing Unsafely,
+12250032,194413,9/29/2012,3:12,1,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+8699471,17309,9/29/2012,13:45,2,NY,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Traffic Control Disregarded,
+9437002,57863,9/25/2012,12:50,1,NY,Taxi,,,,,,,,,,,,,,,,,Unspecified,
+11740436,164374,9/18/2012,10:50,1,NY,Unknown,,,,,,,,,,,,,,,,,Unspecified,
+10385780,100201,9/7/2012,9:03,1,NY,Passenger Vehicle,VEHICLE_MAKE,,,,,,,,,,,,,,,,Unspecified,
+10957637,126113,9/4/2012,7:00,2,NY,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Lost Consciousness,
+10385619,2927027,8/26/2012,16:29,1,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Fatigued/Drowsy,
+10156531,2912308,8/24/2012,9:40,2,MA,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Driver Inattention/Distraction,
+9273416,45437,8/17/2012,16:30,2,NY,Other,,,,,,,,,,,,,,,,,Other Vehicular,
+13408714,246242,8/13/2012,16:55,2,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+11912713,176016,8/11/2012,19:36,2,NY,Bicycle,,,,,,,,,,,,,,,,,Unspecified,
+9349147,52530,8/8/2012,5:28,2,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+14197939,284987,8/2/2012,8:20,1,NJ,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+13977604,3102077,7/31/2012,18:10,1,NY,Sport Utility / Station Wagon,,,,,,,,,,,,,,,,,Unspecified,
+10957127,125877,7/31/2012,13:50,1,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Backing Unsafely,
+12953874,228173,7/30/2012,15:00,1,NY,Bus,,,,,,,,,,,,,,,,,Unspecified,
+13226944,238938,7/30/2012,17:10,1,IL,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+8569561,12254,7/22/2012,7:10,1,VA,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+9396182,55557,7/4/2012,13:00,1,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,
+9396178,55555,7/3/2012,0:12,1,NY,Passenger Vehicle,,,,,,,,,,,,,,,,,Unspecified,

@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+<head>
+    <style>
+        
+        
+    </style>
+    <link rel="stylesheet" href="./css/legend.css">
+    <script src="https://d3js.org/d3.v7.min.js" ></script>
+<body>
+<h1 id="header"> </h1>
+    
+<svg width="500" height="300"></svg>
+<script src="./js/pieChart.js"></script>
+
+<fieldset>
+    <legend>Legend:</legend>
+    <ul class="legend">
+        <li ><span class="firstColor"></span> <p1 id="firstColor">Passenger Vehicle</p1></li>
+        <li><span class="secondColor"></span> <p1 id="secondColor">Passenger Vehicle</p1></li>
+        <li><span class="thirdColor"></span><p1 id="thirdColor">Passenger Vehicle</p1> </li>
+        <li><span class="fourthColor"></span><p1 id="fourthColor">Passenger Vehicle</p1></li>
+        <li><span class="fifthColor"></span> <p1 id="fifthColor">Passenger Vehicle</p1></li>
+        <li><span class="sixthColor"></span><p1 id="sixthColor">Passenger Vehicle</p1> </li>
+        <li><span class="lastColor"></span><p1 id="lastColor">Passenger Vehicle</p1> </li>
+    </ul>
+   </fieldset>
+   <label for="cars">Variable:</label>
+<select id="cars" onchange="report(this.value)" name="cars">
+  <option value="VEHICLE_TYPE">Vehicle Type</option>
+  <option value="DRIVER_LICENSE_STATUS">License Status</option>
+  <option value="VEHICLE_DAMAGE">Vehicle Damage</option>
+  <option value="TRAVEL_DIRECTION">Travel Direction</option>
+  <option value="CONTRIBUTING_FACTOR_1">Contributing Factor</option>
+</select>
+</body>
+
+</html>
