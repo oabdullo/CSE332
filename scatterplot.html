@@ -1,6 +1,30 @@
 <!doctype html>
 <html>
     <head>
+        <p1> X axis: </p1>
+        <select id="cars" onchange="report(this.value)" name="cars">
+            
+            <option value="DRIVER_LICENSE_STATUS">License Status</option>
+            <option value="VEHICLE_TYPE">Vehicle Type</option>
+            <option value="VEHICLE_DAMAGE">Vehicle Damage</option>
+            <option value="TRAVEL_DIRECTION">Travel Direction</option>
+            <option value="CONTRIBUTING_FACTOR_1">Contributing Factor</option>
+            <option value="STATE_REGISTRATION">State Registration</option>
+            <option value="DRIVER_LICENSE_JURISDICTION">Driver License Juristiction</option>
+          
+          </select>
+          <p1> Y axis :</p1>
+          <select id="car1" onchange="report(this.value)" name="cars">
+            
+            <option value="DRIVER_LICENSE_STATUS">License Status</option>
+            <option value="VEHICLE_TYPE">Vehicle Type</option>
+            <option value="VEHICLE_DAMAGE">Vehicle Damage</option>
+            <option value="TRAVEL_DIRECTION">Travel Direction</option>
+            <option value="CONTRIBUTING_FACTOR_1">Contributing Factor</option>
+            <option value="STATE_REGISTRATION">State Registration</option>
+            <option value="DRIVER_LICENSE_JURISDICTION">Driver License Juristiction</option>
+          
+          </select>
         <script src="https://d3js.org/d3.v7.min.js" ></script>
     <body>
         <svg width="800" height="500"></svg>

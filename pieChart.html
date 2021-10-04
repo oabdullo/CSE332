@@ -8,6 +8,16 @@
     <link rel="stylesheet" href="./css/legend.css">
     <script src="https://d3js.org/d3.v7.min.js" ></script>
 <body>
+    <label for="cars">Variable:</label>
+    <select id="cars" onchange="report(this.value)" name="cars">
+      <option value="VEHICLE_TYPE">Vehicle Type</option>
+      <option value="DRIVER_LICENSE_STATUS">License Status</option>
+      <option value="VEHICLE_DAMAGE">Vehicle Damage</option>
+      <option value="TRAVEL_DIRECTION">Travel Direction</option>
+      <option value="CONTRIBUTING_FACTOR_1">Contributing Factor</option>
+      <option value="STATE_REGISTRATION">State Registration</option>
+      <option value="DRIVER_LICENSE_JURISDICTION">Driver License Juristiction</option>
+    </select>
 <h1 id="header"> </h1>
     
 <svg width="500" height="300"></svg>
@@ -25,14 +35,7 @@
         <li><span class="lastColor"></span><p1 id="lastColor">Passenger Vehicle</p1> </li>
     </ul>
    </fieldset>
-   <label for="cars">Variable:</label>
-<select id="cars" onchange="report(this.value)" name="cars">
-  <option value="VEHICLE_TYPE">Vehicle Type</option>
-  <option value="DRIVER_LICENSE_STATUS">License Status</option>
-  <option value="VEHICLE_DAMAGE">Vehicle Damage</option>
-  <option value="TRAVEL_DIRECTION">Travel Direction</option>
-  <option value="CONTRIBUTING_FACTOR_1">Contributing Factor</option>
-</select>
+
 </body>
 
 </html>

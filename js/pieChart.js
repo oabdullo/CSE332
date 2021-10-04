@@ -13,6 +13,14 @@ function report(val){
             document.getElementById("header").innerHTML="Vehicle Type"
             var vehicle = dataset.VEHICLE_TYPE;
         }
+        else if(val=="STATE_REGISTRATION"){
+            document.getElementById("header").innerHTML="State Registration"
+            var vehicle = dataset.STATE_REGISTRATION;
+        }
+        else if(val=="DRIVER_LICENSE_JURISDICTION"){
+            document.getElementById("header").innerHTML="Driver License Jurisdiction"
+            var vehicle = dataset.VEHICLE_TYPE;
+        }
         else if(val=="VEHICLE_DAMAGE"){
             document.getElementById("header").innerHTML="Vehicle Damage"
             var vehicle = dataset.VEHICLE_DAMAGE;
@@ -106,13 +114,13 @@ function report(val){
                     .innerRadius(0)
                     .outerRadius(100);
     
-        // Grouping different arcs
+        // Sets up the arcs
         var arcs = g.selectAll("arc")
                     .data(pie(data))
                     .enter()
                     .append("g");
     
-        // Appending path 
+        // Appending path and Sets up the scheme  for the pie chart
         arcs.append("path")
             .attr("fill", (data, i)=>{
                 let value=data.data;
@@ -123,80 +131,8 @@ function report(val){
         
     });
 }
-// d3.csv("./data/MVC.csv", function(dataset) {
-//     var vehicle = dataset.VEHICLE_TYPE;
-//     //console.log(vehicle);
-//     if(countObj[vehicle]=== undefined){
-//         countObj[vehicle]=1;
-//     }
-//     else{
-//         countObj[vehicle] =countObj[vehicle]+1;
-//     }
-//     count++;
-    
 
-// });
-// //compares the numbers
+//compares the numbers
 function compareNumbers(a, b) {
     return a - b;
   }
-// d3.csv("./data/MVC.csv").then(function(dataset) {
-//     var data = Object.values(countObj);
-
-//     //reduce the pi chart to 6 Values
-//     //console.log(Object.values(countObj).sort())
-//     //console.log(Object.entries(countObj))
-//     Object.entries(countObj).sort((a, b) => (a.values > b.values) ? 1 : -1)
-//     //console.log(Object.entries(countObj))
-//     console.log(data.sort(compareNumbers));
-//     data.reverse();
-//     //Object.entries(countObj).sort(([,a],[,b]) => a-b)
-//     keysSorted = Object.keys(countObj).sort(function(a,b){return countObj[a]-countObj[b]})
-//     keysSorted.reverse();
-//     console.log(keysSorted);  
-//     //console.log(countObj)
-//     var sub =0
-//     for(let i=0; i<6;i++){
-//         sub+=data[i];
-//     }
-//     console.log(count-sub)
-//     var arr =[];
-//     for(let i =0;i<6;i++){
-//         arr[i]=data[i];
-//     }
-//     arr[6]= count-sub;
-//     //console.log(count)
-//     //console.log(arr)
-//     data= arr;
-
-//     var svg = d3.select("svg");
-
-//     let g = svg.append("g")
-//            .attr("transform", "translate(150,120)");
-    
-//     //Create pie
-
-//     var pie = d3.pie();
-
-
-//     // Creating arc
-//     var arc = d3.arc()
-//                 .innerRadius(0)
-//                 .outerRadius(100);
-
-//     // Grouping different arcs
-//     var arcs = g.selectAll("arc")
-//                 .data(pie(data))
-//                 .enter()
-//                 .append("g");
-
-//     // Appending path 
-//     arcs.append("path")
-//         .attr("fill", (data, i)=>{
-//             let value=data.data;
-//             return d3.schemeSet1[i];
-//         })
-//         .attr("d", arc);
-
-    
-// });
