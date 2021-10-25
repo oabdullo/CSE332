@@ -8,24 +8,31 @@
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
 </head>
 <body>
+	<h1 style="">Food Product Emissions</h1>
     <div style="display:inline-block;" id="legend"></div>
     <div style="display:inline-block; float:left" id="container"></div>
-	<script src="main.js"></script>
-
 	<script>
-
-    var correlationMatrix = [
-        [1, 0.3, 0, 0.8, 0, 0.2, 1, 0.5],
-        [0.3, 1, 0.5, 0.2, 0.4, 0.3, 0.8, .1],
-        [0, 0.5, 1, 0.4, 0, 0.9, 0, 0.2],
-        [0.8, 0.2, 0.4, 1, 0.3, 0.4, 0.1, 1],
-        [0, 0.4, 0, 0.3, 1, 0.1, 0.4, 0],
-        [0.2, 0.3, 0.9, 0.4, 0.1, 1, 0, 0.1],
-        [1, 0.8, 0, 0.1, 0.4, 0, 1, 0.5],
-        [0.5, 0.1, 0.2, 1, 0.1, 0, 0.5, 1],
-    ];
-
-    var labels = ['Var 1', 'Var 2', 'Var 3', 'Var 4', 'Var 5', 'Var 6', 'Var 7', 'Var 8'];
+	
+    var correlationMatrix = [[ 1.        ,  0.24,  0.64,  0.45,  0.07,
+         0.18,  0.14,  0.80 ,  0.84],
+       [ 0.24,  1.        ,  0.56,  0.43,  0.27,
+        -0.05,  0.56,  0.57,  0.54],
+       [ 0.64,  0.56,  1.        ,  0.70,  0.28,
+         0.15,  0.37,  0.96,  0.93],
+       [ 0.45,  0.43,  0.70,  1.        ,  0.39,
+         0.37,  0.45 ,  0.71  ,  0.63],
+       [ 0.07,  0.27,  0.28,  0.39,  1.        ,
+         0.08,  0.08,  0.27,  0.23],
+       [ 0.18, -0.05,  0.15,  0.37,  0.08,
+         1.        , -0.01,  0.20,  0.17],
+       [ 0.14,  0.56,  0.37,  0.45 ,  0.08,
+        -0.01,  1.        ,  0.37,  0.32 ],
+       [ 0.80,  0.57,  0.96,  0.71  ,  0.27,
+         0.20,  0.37,  1.        ,  0.98],
+       [ 0.84,  0.54,  0.93,  0.63,  0.23,
+         0.17,  0.32 ,  0.98,  1.        ]]
+	
+    var labels = ['Land Use', ' Feed', 'Farm', 'Processing', 'Transport', 'Packaging', 'Retail', 'Land to Retail', 'Global Average Emissions'];
 
     Matrix({
         container : '#container',
@@ -35,9 +42,10 @@
         end_color : '#3498db'
     });
     function Matrix(options) {
-	var margin = {top: 50, right: 50, bottom: 100, left: 100},
-	    width = 350,
-	    height = 350,
+	
+	var margin = {top: 50, right: 300, bottom: 200, left: 300},
+	    width = 500,
+	    height = 500,
 	    data = options.data,
 	    container = options.container,
 	    labelsData = options.labels,
