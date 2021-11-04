@@ -1,17 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Live coding Session</title>
-        <!-- <style>
-            .hello-world {
-                color: red;
-            }
-        </style> -->
+        
         <link rel="stylesheet" href="./css/styles.css">
         <script src="./js/index.js" async></script>
         <script src="https://d3js.org/d3.v7.min.js"></script>
     </head>
     <body>
+      <label style="float: left;" for="cars">Variable:</label>
+    <select style="float: left; size: 100px;" id="cars" onchange="report(this.value)" name="cars">
+      <option value="VEHICLE_TYPE">Vehicle Type</option>
+      <option value="DRIVER_LICENSE_STATUS">License Status</option>
+      <option value="VEHICLE_DAMAGE">Vehicle Damage</option>
+      <option value="TRAVEL_DIRECTION">Travel Direction</option>
+      <option value="CONTRIBUTING_FACTOR_1">Contributing Factor</option>
+      <option value="STATE_REGISTRATION">State Registration</option>
+      <option value="DRIVER_LICENSE_JURISDICTION">Driver License Juristiction</option>
+    </select>
+<h1 id="header"> </h1>
+    
+<svg width="500" height="300"></svg>
+<script src="./js/pieChart.js"></script>
+
+<fieldset style="float:left; size:100px" >
+    <legend style="size: 15px; padding: 0;">Legend:</legend>
+    <ul class="legend" style="size: 25px;">
+        <li ><span class="firstColor"></span> <p1 id="firstColor">Passenger Vehicle</p1></li>
+        <li><span class="secondColor"></span> <p1 id="secondColor">Passenger Vehicle</p1></li>
+        <li><span class="thirdColor"></span><p1 id="thirdColor">Passenger Vehicle</p1> </li>
+        <li><span class="fourthColor"></span><p1 id="fourthColor">Passenger Vehicle</p1></li>
+        <li><span class="fifthColor"></span> <p1 id="fifthColor">Passenger Vehicle</p1></li>
+        <li><span class="sixthColor"></span><p1 id="sixthColor">Passenger Vehicle</p1> </li>
+        <li><span class="lastColor"></span><p1 id="lastColor">Passenger Vehicle</p1> </li>
+    </ul>
+   </fieldset>
         <a href="./barchart.html">  
             <button style="width: 400px; height: 200px;">Bar Chart</button>  
           </a>
