@@ -41,6 +41,8 @@ function change(val){
         
     
     });
+    d3.selectAll(".bar").remove();
+    d3.selectAll("text").remove();
     
     //creates the image of the bar chart
     var svg1 = d3.select("svg"),
@@ -59,7 +61,7 @@ function change(val){
         yScale = d3.scaleLinear().range([height, 0]);
 
     var g1 = svg1.append("g")
-               .attr("transform", "translate(" + 600 + "," + 100 + ")");
+               .attr("transform", "translate(" + 300 + "," + 100 + ")");
     
 
     d3.csv("./data/MVC.csv").then(function(data) {
@@ -119,3 +121,4 @@ function change(val){
     });
 
 }
+

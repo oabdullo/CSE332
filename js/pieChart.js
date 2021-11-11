@@ -6,31 +6,31 @@ function report(val){
     count=0;
     d3.csv("./data/MVC.csv", function(dataset) {
         if(val=="TRAVEL_DIRECTION"){
-            document.getElementById("header").innerHTML="Travel Direction"
+            
             var vehicle = dataset.TRAVEL_DIRECTION;
         }
         else if(val=="VEHICLE_TYPE"){
-            document.getElementById("header").innerHTML="Vehicle Type"
+            
             var vehicle = dataset.VEHICLE_TYPE;
         }
         else if(val=="STATE_REGISTRATION"){
-            document.getElementById("header").innerHTML="State Registration"
+            
             var vehicle = dataset.STATE_REGISTRATION;
         }
         else if(val=="DRIVER_LICENSE_JURISDICTION"){
-            document.getElementById("header").innerHTML="Driver License Jurisdiction"
+            
             var vehicle = dataset.VEHICLE_TYPE;
         }
         else if(val=="VEHICLE_DAMAGE"){
-            document.getElementById("header").innerHTML="Vehicle Damage"
+            
             var vehicle = dataset.VEHICLE_DAMAGE;
         }
         else if(val=="DRIVER_LICENSE_STATUS"){
-            document.getElementById("header").innerHTML="Driver License Status"
+            
             var vehicle = dataset.DRIVER_LICENSE_STATUS;
         }
         else if(val=="CONTRIBUTING_FACTOR_1"){
-            document.getElementById("header").innerHTML="Contributing Factor"
+           
             var vehicle = dataset.CONTRIBUTING_FACTOR_1;
         }
         else{
@@ -132,7 +132,4 @@ function report(val){
     });
 }
 
-//compares the numbers
-function compareNumbers(a, b) {
-    return a - b;
-  }
+ 
