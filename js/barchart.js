@@ -1,8 +1,8 @@
 //counts the frequency for the values
 var count = 0;
 var countObj = new Object;
-function report(val){
-    d3.selectAll("svg > *").remove();
+function change(val){
+    
     countObj= new Object;
     d3.csv("./data/MVC.csv", function(dataset) {
         if(val=="TRAVEL_DIRECTION"){
@@ -41,13 +41,14 @@ function report(val){
         
     
     });
+    
     //creates the image of the bar chart
-    var svg = d3.select("svg"),
+    var svg1 = d3.select("svg"),
         margin = 350,
-        width = svg.attr("width") - margin,
-        height = svg.attr("height") - margin
+        width = svg1.attr("width") - margin,
+        height = svg1.attr("height") - margin
 
-    svg.append("text")
+    svg1.append("text")
        .attr("transform", "translate(100,0)")
        .attr("x", 200)
        .attr("y", 50)
@@ -57,8 +58,9 @@ function report(val){
     var xScale = d3.scaleBand().range([0, width]).padding(0.4);
         yScale = d3.scaleLinear().range([height, 0]);
 
-    var g = svg.append("g")
-               .attr("transform", "translate(" + 100 + "," + 100 + ")");
+    var g1 = svg1.append("g")
+               .attr("transform", "translate(" + 600 + "," + 100 + ")");
+    
 
     d3.csv("./data/MVC.csv").then(function(data) {
         // console.log(data);
@@ -75,7 +77,7 @@ function report(val){
         xScale.domain(k.map(function(d) { return d; })); 
         yScale.domain([0, d3.max(v, function(d) { return d; })]); 
 
-        g.append("g") 
+        g1.append("g") 
          .attr("transform", "translate(0," + height + ")") 
          .call(d3.axisBottom(xScale)) 
          .selectAll("text")  
@@ -83,14 +85,14 @@ function report(val){
             .attr("dx", "-.8em")
             .attr("dy", ".15em")
             .attr("transform", "rotate(-65)" );
-        g.append("text")
+        g1.append("text")
             .attr("class", "x label")
             .attr("text-anchor", "end")
             .attr("x", width-300)
             .attr("y", height+200)
             .text(val); 
         //Another group element to have our y-axis grouped under one group element
-        g.append("g") 
+        g1.append("g") 
          .call(d3.axisLeft(yScale).tickFormat(function(d){
              console.log(d);
              return  d;
@@ -105,7 +107,7 @@ function report(val){
          .attr("stroke", "black")
          .text("Number of Occurances");
 
-        g.selectAll(".bar") //created dynamic bars with our data using the SVG rectangle element.
+        g1.selectAll(".bar") //created dynamic bars with our data using the SVG rectangle element.
          .data(Object.entries(countObj))
          .enter().append("rect")
          .attr("class", "bar")
@@ -113,6 +115,7 @@ function report(val){
          .attr("y", function(d) { return yScale(d[1]); }) 
          .attr("width", xScale.bandwidth()) 
          .attr("height", function(d) { return height - yScale(d[1]); }); 
+        
     });
 
 }

@@ -19,7 +19,7 @@
     </select>
 <h1 id="header"> </h1>
     
-<svg width="500" height="300"></svg>
+<svg width="1000" height="800"></svg>
 <script src="./js/pieChart.js"></script>
 
 <fieldset style="float:left; size:100px" >
@@ -34,6 +34,23 @@
         <li><span class="lastColor"></span><p1 id="lastColor">Passenger Vehicle</p1> </li>
     </ul>
    </fieldset>
+   <style>
+    .bar {
+        fill: green;
+    }
+</style>
+  <script src="./js/barchart.js"></script>
+  <label for="cars">Variable:</label>
+  <select id="cars" onchange="change(this.value)" name="cars">
+    
+    <option value="DRIVER_LICENSE_STATUS">License Status</option>
+    <option value="VEHICLE_TYPE">Vehicle Type</option>
+    <option value="VEHICLE_DAMAGE">Vehicle Damage</option>
+    <option value="TRAVEL_DIRECTION">Travel Direction</option>
+    <option value="CONTRIBUTING_FACTOR_1">Contributing Factor</option>
+    <option value="STATE_REGISTRATION">State Registration</option>
+    <option value="DRIVER_LICENSE_JURISDICTION">Driver License Juristiction</option>
+
         <a href="./barchart.html">  
             <button style="width: 400px; height: 200px;">Bar Chart</button>  
           </a>
@@ -44,5 +61,6 @@
           <a href="./scatterplot.html">  
             <button style="width: 400px; height: 200px;">Scatter Plot</button>  
           </a>
+          
     </body>
 </html>

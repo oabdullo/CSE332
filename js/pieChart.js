@@ -1,7 +1,7 @@
 var count = 0;
 var countObj = new Object;
 function report(val){
-    d3.selectAll("svg > *").remove();
+    // d3.selectAll("svg > *").remove();
     countObj= new Object;
     count=0;
     d3.csv("./data/MVC.csv", function(dataset) {
