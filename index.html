@@ -11,27 +11,30 @@
     
 <h1 id="header"> </h1>
     
-<svg style="float: right; display:block; overflow: auto" width="1000" height="500"></svg>
-<script src="./js/index.js"></script>
-
+<svg style=" display:block; " width="600" height="600"><script src="./js/index.js"></script>
+</svg>
 <fieldset style="float: left;"  >
-    <legend style=" padding: 0;">Legend:</legend>
-    <ul class="legend" >
-        <li ><span class="firstColor"></span> <p1 id="firstColor">Passenger Vehicle</p1></li>
-        <li><span class="secondColor"></span> <p1 id="secondColor">Passenger Vehicle</p1></li>
-        <li><span class="thirdColor"></span><p1 id="thirdColor">Passenger Vehicle</p1> </li>
-        <li><span class="fourthColor"></span><p1 id="fourthColor">Passenger Vehicle</p1></li>
-        <li><span class="fifthColor"></span> <p1 id="fifthColor">Passenger Vehicle</p1></li>
-        <li><span class="sixthColor"></span><p1 id="sixthColor">Passenger Vehicle</p1> </li>
-        <li><span class="lastColor"></span><p1 id="lastColor">Passenger Vehicle</p1> </li>
-    </ul>
-   </fieldset>
+  <legend style=" padding: 0;">Legend:</legend>
+  <ul class="legend" >
+      <li ><span class="firstColor"></span> <p1 id="firstColor">Passenger Vehicle</p1></li>
+      <li><span class="secondColor"></span> <p1 id="secondColor">Passenger Vehicle</p1></li>
+      <li><span class="thirdColor"></span><p1 id="thirdColor">Passenger Vehicle</p1> </li>
+      <li><span class="fourthColor"></span><p1 id="fourthColor">Passenger Vehicle</p1></li>
+      <li><span class="fifthColor"></span> <p1 id="fifthColor">Passenger Vehicle</p1></li>
+      <li><span class="sixthColor"></span><p1 id="sixthColor">Passenger Vehicle</p1> </li>
+      <li><span class="lastColor"></span><p1 id="lastColor">Passenger Vehicle</p1> </li>
+  </ul>
+ </fieldset>
+<svg style="float: right;" id="scatterplot" width= "500" height="500" ></svg>
+
+
    <style>
     .bar {
         fill: green;
     }
 </style>
-  
+
+
   
   <select style="float: bottom; " id="cars" onchange="change(this.value)" name="cars">
     
@@ -42,6 +45,8 @@
     <option value="CONTRIBUTING_FACTOR_1">Contributing Factor</option>
     <option value="STATE_REGISTRATION">State Registration</option>
     <option value="DRIVER_LICENSE_JURISDICTION">Driver License Juristiction</option>
+
+    
 
         <a href="./barchart.html">  
             <button style="width: 400px; height: 200px;">Bar Chart</button>  
