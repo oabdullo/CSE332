@@ -14,3 +14,6 @@
 .legend .fifthColor { background-color: #ff7f00; }
 .legend .sixthColor { background-color: #ffff33; }
 .legend .lastColor { background-color: #a65628; }
+body {
+    background-color: lightblue;
+  }

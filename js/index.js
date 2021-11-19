@@ -8,6 +8,11 @@ return a - b;
 var count = 0;
 var countObj = new Object;
 function change(val){
+    require.config({
+        paths: {
+            d3:"//d3js.org/d3.v7.min"
+        }
+    });
     countObj= new Object;
 count=0;
 d3.csv("./data/MVC.csv", function(dataset) {
@@ -173,14 +178,14 @@ d3.csv("./data/MVC.csv").then(function(dataset) {
 
     
     //creates the image of the bar chart
-    var svg1 = d3.select("svg"),
+    var svg1 = d3.select("#secondBar"),
         margin = 350,
         width = svg1.attr("width") - margin,
         height = svg1.attr("height") - margin
 
     svg1.append("text")
        .attr("transform", "translate(100,0)")
-       .attr("x", 200)
+       .attr("x", 50)
        .attr("y", 50)
        .attr("font-size", "24px")
        .text(val)
@@ -189,7 +194,7 @@ d3.csv("./data/MVC.csv").then(function(dataset) {
         yScale = d3.scaleLinear().range([height, 0]);
 
     var g1 = svg1.append("g")
-               .attr("transform", "translate(" + 300 + "," + 100 + ")");
+               .attr("transform", "translate(" + 100 + "," + 100 + ")");
     
 
     d3.csv("./data/MVC.csv").then(function(data) {
@@ -218,8 +223,8 @@ d3.csv("./data/MVC.csv").then(function(dataset) {
         g1.append("text")
             .attr("class", "x label")
             .attr("text-anchor", "end")
-            .attr("x", width-300)
-            .attr("y", height+200)
+            .attr("x", width-100)
+            .attr("y", height+150)
             .text(val); 
         //Another group element to have our y-axis grouped under one group element
         g1.append("g") 
@@ -248,104 +253,105 @@ d3.csv("./data/MVC.csv").then(function(dataset) {
         
     });
 
-    countObj= new Object;
-    countObj2= new Object;
-    count=0;
+     
+   countObj= new Object;
+   countObj2= new Object;
+   count=0;
 
 
-    // counts teh values for the scatter plot
-    d3.csv("data/MVC.csv", function(data) {
+       // counts teh values for the scatter plot
+       d3.csv("data/MVC.csv", function(data) {
 
 
-        var vehicle = data["VEHICLE_TYPE"]
-        var second= data["VEHICLE_TYPE"]
-        // console.log(data.VEHICLE_DAMAGE)
-        if(countObj[vehicle]=== undefined){
-            countObj[vehicle]=1;
-        }
-        else{
-            countObj[vehicle] =countObj[vehicle]+1;
-        }
+           var vehicle = data["VEHICLE_TYPE"]
+           var second= data["VEHICLE_TYPE"]
+           // console.log(data.VEHICLE_DAMAGE)
+           if(countObj[vehicle]=== undefined){
+               countObj[vehicle]=1;
+           }
+           else{
+               countObj[vehicle] =countObj[vehicle]+1;
+           }
 
-        if(countObj2[second]=== undefined){
-            countObj2[second]=1;
-        }
-        else{
-            countObj2[second] =countObj2[second]+1;
-        }
-        count++;
-    });
-    var svg = d3.select("#scatterplot"),
-    margin = 200,
-    width = svg.attr("width") - margin,
-    height = svg.attr("height") - margin
+           if(countObj2[second]=== undefined){
+               countObj2[second]=1;
+           }
+           else{
+               countObj2[second] =countObj2[second]+1;
+           }
+           count++;
+       });
+       var svg = d3.select("#scatterplot"),
+       margin = 200,
+       width = svg.attr("width") - margin,
+       height = svg.attr("height") - margin
 
 
-    svg.append("text")
-    .attr("transform", "translate(100,0)")
-    .attr("x", 200)
-    .attr("y", 50)
-    .attr("font-size", "24px")
-    .text("Motor Vehicle Data")
+       svg.append("text")
+       .attr("transform", "translate(100,0)")
+       .attr("x", 100)
+       .attr("y", 50)
+       .attr("font-size", "24px")
+       .text("Motor Vehicle Data")
 
-    var xScale = d3.scaleBand().range([0, width]).padding(0.4);//scaleBand() is used to construct a band scale. This is useful when our data has discrete bands.
-    yScale = d3.scaleLinear().range([height, 0]);//a linear scale for the y-axis since this axis will show our stock prices.
+       var xScale = d3.scaleBand().range([0, width]).padding(0.4);//scaleBand() is used to construct a band scale. This is useful when our data has discrete bands.
+       yScale = d3.scaleLinear().range([height, 0]);//a linear scale for the y-axis since this axis will show our stock prices.
 
-    var g = svg.append("g")
-        .attr("transform", "translate(" + 100 + "," + 100 + ")");
+       var g = svg.append("g")
+           .attr("transform", "translate(" + 100 + "," + 100 + ")");
 
-    d3.csv("data/MVC.csv").then(function(data) {
-    
-        console.log(countObj2)
-        console.log(countObj)
-        var k= Object.keys(countObj);
-        var v =Object.values(countObj)
-        var v2= Object.values(countObj2)
-        var com = {};
-        for(let i=0; i<k.length;i++){
-            com[v[i]] = v2[i];
-        }
-        console.log(Object.entries(com))
-        v= Object.keys(com);
-        v2= Object.values(com)
-        
-    xScale.domain(v.map(function(d) { return d; })); //provide domain values to the x and y scales, here it's X Scale which is Timestamp
-    yScale.domain([0, d3.max(v2, function(d) { return d; })]); // domain value of Fixation Duration to y Scale
+       d3.csv("data/MVC.csv").then(function(data) {
+       
+           console.log(countObj2)
+           console.log(countObj)
+           var k= Object.keys(countObj);
+           var v =Object.values(countObj)
+           var v2= Object.values(countObj2)
+           var com = {};
+           for(let i=0; i<k.length;i++){
+               com[v[i]] = v2[i];
+           }
+           console.log(Object.keys(com))
+           v= Object.keys(com);
+           v2= Object.values(com)
+           
+       xScale.domain(v.map(function(d) { return d; })); //provide domain values to the x and y scales, here it's X Scale which is Timestamp
+       yScale.domain([0, d3.max(v2, function(d) { return d; })]); // domain value of Fixation Duration to y Scale
 
-    g.append("g") //Another group element to have our x-axis grouped under one group element
-    .attr("transform", "translate(0," + height + ")") // We then use the transform attribute to shift our x-axis towards the bottom of the SVG.
-    .call(d3.axisBottom(xScale)) //We then insert x-axis on this group element using .call(d3.axisBottom(x)).
-    .append("text")
-    .attr("y", height - 250)
-    .attr("x", width - 100)
-    .attr("text-anchor", "end")
-    .attr("stroke", "black")
-    .text("vehicle type");
+       g.append("g") //Another group element to have our x-axis grouped under one group element
+       .attr("transform", "translate(0," + height + ")") // We then use the transform attribute to shift our x-axis towards the bottom of the SVG.
+       .call(d3.axisBottom(xScale)) //We then insert x-axis on this group element using .call(d3.axisBottom(x)).
+       .append("text")
+       .attr("y", height-250)
+       .attr("x", width - 100)
+       .attr("text-anchor", "end")
+       .attr("stroke", "black")
+       .text("vehicle type");
 
-    g.append("g") //Another group element to have our y-axis grouped under one group element
-    .call(d3.axisLeft(yScale).tickFormat(function(d){
-        return  d;
-    })
-    .ticks(10))
-    .append("text")
-    .attr("transform", "rotate(-90)")
-    .attr("y", 6)
-    .attr("dy", "-5.1em")
-    .attr("text-anchor", "end")
-    .attr("stroke", "black")
-    .text("Vehicle Type");
+       g.append("g") //Another group element to have our y-axis grouped under one group element
+       .call(d3.axisLeft(yScale).tickFormat(function(d){
+           return  d;
+       })
+       .ticks(10))
+       .append("text")
+       .attr("transform", "rotate(-90)")
+       .attr("y", 6)
+       .attr("dy", "-5.1em")
+       .attr("text-anchor", "end")
+       .attr("stroke", "black")
+       .text(val);
 
-    g.selectAll(".circle")
-    .data(Object.entries(com))
-    .enter().append("circle")
+       g.selectAll(".circle")
+       .data(Object.entries(com))
+       .enter().append("circle")
 
-    .attr("r", function(d) { return 10; })
+       .attr("r", function(d) { return 10; })
 
-    .attr("cx", function(d) { return xScale(d[0]); })
+       .attr("cx", function(d) { return xScale(d[0]); })
 
-    .attr("cy", function(d) { return yScale(d[1]); })
+       .attr("cy", function(d) { return yScale(d[1]); })
 
-    .style("fill","red") 
-    });
+       .style("fill","red") 
+       });
 }
 

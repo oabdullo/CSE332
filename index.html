@@ -1,4 +1,40 @@
 <!DOCTYPE html>
+<style>
+
+  svg {
+    font: 10px sans-serif;
+  }
+  
+  .background path {
+    fill: none;
+    stroke: #ddd;
+    shape-rendering: crispEdges;
+  }
+  
+  .foreground path {
+    fill: none;
+    stroke:rgb(21, 255, 0);
+  }
+  
+  .brush .extent {
+    fill-opacity: .3;
+    stroke: #fff;
+    shape-rendering: crispEdges;
+  }
+  
+  .axis line,
+  .axis path {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+  }
+  
+  .axis text {
+    text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
+    cursor: move;
+  }
+  
+  </style>
 <html lang="en">
     <head>
         
@@ -11,8 +47,9 @@
     
 <h1 id="header"> </h1>
     
-<svg style=" display:block; " width="600" height="600"><script src="./js/index.js"></script>
+<svg style="float: left;"  width="300" height="300"><script src="./js/index.js"></script>
 </svg>
+<script src="./js/require.js"></script>
 <fieldset style="float: left;"  >
   <legend style=" padding: 0;">Legend:</legend>
   <ul class="legend" >
@@ -25,9 +62,15 @@
       <li><span class="lastColor"></span><p1 id="lastColor">Passenger Vehicle</p1> </li>
   </ul>
  </fieldset>
-<svg style="float: right;" id="scatterplot" width= "500" height="500" ></svg>
+ <svg  id="secondBar" width= "500" height="550" ></svg>
 
 
+
+<svg style="display: inline-block;"  id="scatterplot" width= "500" height="500" ></svg>
+
+<svg id= parallel width="500" height="300"></svg>
+
+<script src="./js/scatterIndexJS.js"> </script>
    <style>
     .bar {
         fill: green;
@@ -35,8 +78,7 @@
 </style>
 
 
-  
-  <select style="float: bottom; " id="cars" onchange="change(this.value)" name="cars">
+  <select style="float: bottom; " id="cars" onchange=" change(this.value); " name="cars">
     
     <option value="DRIVER_LICENSE_STATUS">License Status</option>
     <option value="VEHICLE_TYPE">Vehicle Type</option>
@@ -45,19 +87,10 @@
     <option value="CONTRIBUTING_FACTOR_1">Contributing Factor</option>
     <option value="STATE_REGISTRATION">State Registration</option>
     <option value="DRIVER_LICENSE_JURISDICTION">Driver License Juristiction</option>
+  </select>
+  <button style="height: 50px; width: 100px;" onclick=graphicviz(id)> Click to generate Parallel Plot </button>
+  
 
-    
-
-        <a href="./barchart.html">  
-            <button style="width: 400px; height: 200px;">Bar Chart</button>  
-          </a>
-    
-          <a href="./pieChart.html">  
-            <button style="width: 400px; height: 200px;">Pie Chart</button>  
-          </a>
-          <a href="./scatterplot.html">  
-            <button style="width: 400px; height: 200px;">Scatter Plot</button>  
-          </a>
           
     </body>
 </html>
